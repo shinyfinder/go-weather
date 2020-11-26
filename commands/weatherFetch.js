@@ -7,7 +7,7 @@ const config = require('../config.json');
 module.exports = {
 	name: "weatherFetch",
 	description: 'Retrieve weather data from Open Weather and push to github.',
-	aliases: ['weather'],
+	aliases: ['weather','wf'],
 	execute: async (message) => {
 		try {
 			const res = await fetch('https://raw.githubusercontent.com/shinyfinder/hello-world/master/weather_14.json.gz');
