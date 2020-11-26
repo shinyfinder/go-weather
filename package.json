@@ -1,0 +1,33 @@
+{
+  "name": "shinybot",
+  "version": "1.0.0",
+  "description": "discord bot made by sf",
+  "main": "index.js",
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  },
+  "dependencies": {
+    "crawler": "^1.2.2",
+    "discord.js": "^12.2.0",
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.0",
+    "simple-git": "^2.23.0",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "shiny finder",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinyfinder/shinybot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shinyfinder/shinybot/issues"
+  },
+  "homepage": "https://github.com/shinyfinder/shinybot#readme"
+}
