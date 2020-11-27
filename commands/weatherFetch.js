@@ -26,7 +26,7 @@ module.exports = {
 					const repo = 'hello-world';
 					const user = config.gituser;
 					const pwd = config.gitpwd;
-					const gitURL = 'https://${user}:${pwd}@github.com/${user}/${repo}';
+					const gitURL = `https://${user}:${pwd}@github.com/${user}/${repo}`;
 					// gitconfigs
 					try {
 					await simpleGit.init();
