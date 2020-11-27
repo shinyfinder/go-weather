@@ -59,7 +59,7 @@ module.exports = {
 					.then((success) => {
 						console.log('repo successfully pushed');
 					},(failed)=> {
-						console.log('repo push failed');
+						console.log('repo push failedd');
 					});
 				}
 				catch(e) {console.log(e);};
