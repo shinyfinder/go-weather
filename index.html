@@ -7,10 +7,38 @@
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
-		const current = require('weather.json');
+		var current; var wrapped; var lines; var obj;
+		$(document).ready(function(){
+			// get the json from github
+			$.get("https://raw.githubusercontent.com/shinyfinder/shinybot/weather/weather.json", function(result){
+					// assign to gobal var
+					current = result;
+					// split on new line
+					lines = current.split(/\n/);
+					// remove last element (null) cuz file ends in new line
+					lines.pop();
+					// join into array and wrap in [] to create a valid json
+					wrapped = "[" + lines.join(",") + "]";
+					// parse new array as JSON
+					obj = JSON.parse(wrapped);
+				});
+		});
+
+		function weatherFind() {
+			var results = [];
+			var toSearch = "Rain";
+
+			for (var i=0; i<obj.length; i++) {
+				if(obj[i].weather[0].main.indexOf(toSearch)!=-1) {
+					results.push(obj[i]);
+				}
+			}
+			console.log(results);
+		}
 	</script>
 </head>
 <body>
-<p>hello world</p>
+	<p>hello world</p>
+	<button id="json" onclick="weatherFind()">Get JSON data</button>
 </body>
 </html>
