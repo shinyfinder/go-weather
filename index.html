@@ -5,10 +5,32 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<style type="text/css">
+	table, th, td {
+		text-align: center;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+</style>
+
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
 		var current; var wrapped; var lines; var obj;
 		$(document).ready(function(){
+			// get the date/time
+			var d = new Date();
+			var min = d.getMinutes();
+
+			// send notice 16 min after to refresh the page
+			var timeoutDelay = 16 - min;
+			if (timeoutDelay <= 0) {
+				timeoutDelay = timeoutDelay + 60;
+			}
+
+			
+			setTimeout(function() {alert('Weather info updated. Please dismiss this alert and refresh the page to see new weather data.')}, timeoutDelay*60*1000);
+
+
 			// get the json from github
 			$.get("https://raw.githubusercontent.com/shinyfinder/shinybot/weather/weather.json", function(result){
 					// assign to gobal var
@@ -26,19 +48,117 @@
 
 		function weatherFind() {
 			var results = [];
-			var toSearch = "Rain";
+			var toSearch = document.getElementById('weatherSelect').value;
+			
+			// OW condition codes: Thunderstorm, Drizzle, Rain, Snow, Mist, Smoke, Haze, Dust, Fog, Sand, Dust, Ash, Squall, Tornado, Clear, Clouds (11-25%, 26-50%, 51-84%, 85-100%)
 
-			for (var i=0; i<obj.length; i++) {
-				if(obj[i].weather[0].main.indexOf(toSearch)!=-1) {
-					results.push(obj[i]);
+			switch (toSearch) {
+				case 'Wind':
+				for (var i=0; i<obj.length; i++) {
+					if ((obj[i].wind.speed > 6.67 || obj[i].wind.speed+obj[i].wind.gust > 15.3) && (obj[i].weather[0].main != 'Thunderstorm' && obj[i].weather[0].main != 'Rain' && obj[i].weather[0].main != 'Drizzle' && obj[i].weather[0].main != 'Snow')) {
+						//obj[i].weather[0].main = 'Windy';
+						results.push(obj[i]);
+					}
 				}
+				break;
+
+				case 'Partly':
+				case 'Clouds':
+					// extract cloudy
+					var tempResult = [];
+					for (var i=0; i<obj.length;i++) {
+						if(obj[i].weather[0].main.indexOf('Clouds')!=-1) {
+							tempResult.push(obj[i]);
+						}
+					}
+					// differentiate between cloudy and partly cloudy
+					for (var i=0; i<tempResult.length;i++) {
+						if((tempResult[i].weather[0].id == 801 || tempResult[i].weather[0].id == 802) && toSearch == 'Partly') {
+							//tempResult[i].weather[0].main = 'Partly Cloudy';
+							results.push(tempResult[i]);
+						} else if ((tempResult[i].weather[0].id == 803 || tempResult[i].weather[0].id == 804) && toSearch == 'Clouds') {
+							//tempResult[i].weather[0].main = 'Cloudy';
+							results.push(tempResult[i]);
+							
+						}
+					}
+					
+					break;
+
+					case 'Rain':
+					for (var i=0; i<obj.length;i++) {
+						if(obj[i].weather[0].main.indexOf(toSearch)!=-1 || obj[i].weather[0].main == 'Thunderstorm' || obj[i].weather[0].main == 'Drizzle') {
+							results.push(obj[i]);
+						}
+					}
+					break;
+
+					case 'Fog':
+					for (var i=0; i<obj.length;i++) {
+						if(obj[i].weather[0].icon == '50d') {
+							results.push(obj[i]);
+						}
+					}
+					break;					
+
+
+					default:
+					for (var i=0; i<obj.length; i++) {
+						if(obj[i].weather[0].main.indexOf(toSearch)!=-1) {
+							results.push(obj[i]);
+						}
+					}
+
+				}
+
+				// push the names and locations into separate arrays
+				
+				var loc = []; var lon = []; var lat = [];
+				if (results.length > 10) {
+					var loopEnd = 10;
+				} else {
+					var loopEnd = results.length;
+				}
+
+				for (var i=0; i<loopEnd; i++) {
+					loc.push(results[i].city.name);
+					lon.push(results[i].city.coord.lon);
+					lat.push(results[i].city.coord.lat);
+				}
+				loc = loc.join('<br />');
+				lon = lon.join('<br />');
+				lat = lat.join('<br />');
+
+				document.getElementById('cityOut').innerHTML = loc;
+				document.getElementById('latOut').innerHTML = lat;
+				document.getElementById('lonOut').innerHTML = lon;
 			}
-			console.log(results);
-		}
-	</script>
-</head>
-<body>
-	<p>hello world</p>
-	<button id="json" onclick="weatherFind()">Get JSON data</button>
-</body>
-</html>
+		</script>
+	</head>
+	<body>
+		<label for='weatherSelect'>Choose a weather condition:</label>
+		<select name='weatherSelect' id='weatherSelect'>
+			<option value='Clear'>Clear</option>
+			<option value='Rain'>Rainy</option>
+			<option value='Partly'>Partly Cloudy</option>
+			<option value='Clouds'>Cloudy</option>
+			<option value='Wind'>Windy</option>
+			<option value='Snow'>Snow</option>
+			<option value='Fog'>Fog</option>
+		</select>
+		<button id="json" onclick="weatherFind()">Find the weather!</button>
+
+		<table>
+			<tr>
+				<th>City</th>
+				<th>Latitude</th>
+				<th>Longitude</th>
+			</tr>
+			<tr>
+				<td id='cityOut'></td>
+				<td id='latOut'></td>
+				<td id='lonOut'></td>
+			</tr>
+		</table>
+	</body>
+	</html>
