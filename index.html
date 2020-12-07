@@ -5,13 +5,24 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+	integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+	crossorigin=""/>
+
+	<!-- Make sure you put this AFTER Leaflet's CSS -->
+	<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+	integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+	crossorigin=""></script>
+
+
 	<style type="text/css">
-	table, th, td {
-		text-align: center;
-		padding-left: 15px;
-		padding-right: 15px;
-	}
-</style>
+		table, th, td {
+			text-align: center;
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+		#mapid {height: 500px;}
+	</style>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
@@ -49,14 +60,16 @@
 
 			switch (toSearch) {
 				case 'Clear':
-					for (var i=0; i<obj.length; i++) {
-						if (obj[i].WeatherText == 'Sunny' || obj[i].WeatherText == 'Clear' || obj[i].WeatherText == 'Mostly Sunny' || obj[i].WeatherText == 'Mostly Clear') {
-							results.push(obj[i]);
-						}
+				for (var i=0; i<obj.length; i++) {
+					if (obj[i].WeatherText == 'Sunny' || obj[i].WeatherText == 'Clear' || obj[i].WeatherText == 'Mostly Sunny' || obj[i].WeatherText == 'Mostly Clear') {
+						results.push(obj[i]);
 					}
+				}
+				break;
+
 				case 'Wind':
 				for (var i=0; i<obj.length; i++) {
-					if (obj[i].WeatherIcon == 32) {
+					if (obj[i].WeatherIcon == 32 && obj[i].PrecipitationType === null) {
 						//obj[i].weather[0].main = 'Windy';
 						results.push(obj[i]);
 					}
@@ -64,53 +77,54 @@
 				break;
 
 				case 'Partly':
-				case 'Clouds':
-					// extract cloudy
-					var tempResult = [];
-					for (var i=0; i<obj.length;i++) {
-						if(obj[i].weather[0].main.indexOf('Clouds')!=-1) {
-							tempResult.push(obj[i]);
-						}
+				for (var i=0; i<obj.length; i++) {
+					if (obj[i].WeatherText == 'Partly Sunny' || obj[i].WeatherText == 'Partly Cloudy' || obj[i].WeatherText == 'Intermittent Clouds' || obj[i].WeatherText == 'Partly Sunny w/ Showers' || obj[i].WeatherText == 'Partly Cloudy w/ Showers' || obj[i].WeatherText == 'Partly Sunny w/ T-Storms' || obj[i].WeatherText == 'Partly Cloudy w/ T-Storms' || obj[i].WeatherText == 'Partly Sunny w/ Flurries') {
+						results.push(obj[i]);
 					}
-					// differentiate between cloudy and partly cloudy
-					for (var i=0; i<tempResult.length;i++) {
-						if((tempResult[i].weather[0].id == 801 || tempResult[i].weather[0].id == 802) && toSearch == 'Partly') {
-							//tempResult[i].weather[0].main = 'Partly Cloudy';
-							results.push(tempResult[i]);
-						} else if ((tempResult[i].weather[0].id == 803 || tempResult[i].weather[0].id == 804) && toSearch == 'Clouds') {
-							//tempResult[i].weather[0].main = 'Cloudy';
-							results.push(tempResult[i]);
-							
-						}
-					}
-					
-					break;
-
-					case 'Rain':
-					for (var i=0; i<obj.length;i++) {
-						if(obj[i].weather[0].main.indexOf(toSearch)!=-1 || obj[i].weather[0].main == 'Thunderstorm' || obj[i].weather[0].main == 'Drizzle') {
-							results.push(obj[i]);
-						}
-					}
-					break;
-
-					case 'Fog':
-					for (var i=0; i<obj.length;i++) {
-						if(obj[i].weather[0].icon == '50d') {
-							results.push(obj[i]);
-						}
-					}
-					break;					
-
-
-					default:
-					for (var i=0; i<obj.length; i++) {
-						if(obj[i].weather[0].main.indexOf(toSearch)!=-1) {
-							results.push(obj[i]);
-						}
-					}
-
 				}
+				break;
+
+				case 'Clouds':
+				for (var i=0; i<obj.length; i++) {
+					if (obj[i].WeatherText == 'Mostly Cloudy' || obj[i].WeatherText == 'Cloudy' || obj[i].WeatherText == 'Mostly Cloudy w/ Showers' || obj[i].WeatherText == 'Mostly Cloudy w/ T-Storms' || obj[i].WeatherText == 'Hazy Sunshine' || obj[i].WeatherText == 'Hazy Moonlight' || obj[i].WeatherText == 'Mostly Cloudy w/ Flurries' || obj[i].WeatherText == 'Mostly Cloudy w/ Snow') {
+						results.push(obj[i]);
+					}
+				}
+
+				break;
+
+				case 'Rain':
+				for (var i=0; i<obj.length;i++) {
+					if(obj[i].WeatherText == 'Showers' || obj[i].WeatherText == 'Rain' || obj[i].WeatherText == 'T-Storms') {
+						results.push(obj[i]);
+					}
+				}
+				break;
+
+				case 'Fog':
+				for (var i=0; i<obj.length;i++) {
+					if(obj[i].WeatherText == 'Fog') {
+						results.push(obj[i]);
+					}
+				}
+				break;
+
+				case 'Snow':
+				for (var i=0; i<obj.length;i++) {
+					if (obj[i].WeatherText == 'Snow' || obj[i].WeatherText == 'Flurries' || obj[i].WeatherText == 'Rain and Snow') {
+						results.push(obj[i]);
+					}
+				}				
+
+
+				default:
+				for (var i=0; i<obj.length; i++) {
+					if(obj[i].WeatherText.indexOf(toSearch)!=-1) {
+						results.push(obj[i]);
+					}
+				}
+
+			}
 
 				// push the names and locations into separate arrays
 				console.log(results);
@@ -122,9 +136,9 @@
 				}
 
 				for (var i=0; i<loopEnd; i++) {
-					loc.push(results[i].city.name);
-					lon.push(results[i].city.coord.lon);
-					lat.push(results[i].city.coord.lat);
+					loc.push(results[i].EnglishName);
+					lon.push(results[i].GeoPosition.Longitude);
+					lat.push(results[i].GeoPosition.Latitude);
 				}
 				loc = loc.join('<br />');
 				lon = lon.join('<br />');
@@ -135,6 +149,8 @@
 				document.getElementById('lonOut').innerHTML = lon;
 			}
 		</script>
+
+
 	</head>
 	<body>
 		<label for='weatherSelect'>Choose a weather condition:</label>
@@ -161,5 +177,20 @@
 				<td id='lonOut'></td>
 			</tr>
 		</table>
+		<div id="mapid"></div>
+
+
+				<script type="text/javascript">
+			var mymap = L.map('mapid').setView([51.505,-0.03],3);
+
+			L.tileLayer('https://openweathermap.org/weathermap?basemap=map&cities=false&layer=windspeed&lat=30&lon=-20&zoom=3', {
+				attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+				maxZoom: 18,
+				id: 'mapbox/streets-v11',
+				tileSize: 512,
+				zoomOffset: -1,
+				accessToken: 'your.mapbox.access.token'
+			}).addTo(mymap);
+		</script>
 	</body>
 	</html>
