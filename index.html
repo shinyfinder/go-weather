@@ -40,11 +40,11 @@
 					lines = current.split(/\n/);
 					console.log(lines);
 					// remove last element (null) cuz file ends in new line
-					lines.pop();
+					//lines.pop();
 					// join into array and wrap in [] to create a valid json
-					wrapped = "[" + lines.join(",") + "]";
+					//wrapped = "[" + lines.join(",") + "]";
 					// parse new array as JSON
-					obj = JSON.parse(wrapped);
+					obj = JSON.parse(lines);
 					console.log(obj);
 				});
 		});
