@@ -34,17 +34,9 @@
 			// get the json from github
 			$.get("https://raw.githubusercontent.com/shinyfinder/shinybot/weather/weather.json", function(result){
 					// assign to gobal var
-					current = result;
-					console.log(current);
-					// split on new line
-					lines = current.split(/\n/);
-					console.log(lines);
-					// remove last element (null) cuz file ends in new line
-					//lines.pop();
-					// join into array and wrap in [] to create a valid json
-					//wrapped = "[" + lines.join(",") + "]";
+					obj = result;
 					// parse new array as JSON
-					obj = JSON.parse(lines);
+					obj = JSON.parse(obj);
 					console.log(obj);
 				});
 		});
@@ -56,9 +48,15 @@
 			// OW condition codes: Thunderstorm, Drizzle, Rain, Snow, Mist, Smoke, Haze, Dust, Fog, Sand, Dust, Ash, Squall, Tornado, Clear, Clouds (11-25%, 26-50%, 51-84%, 85-100%)
 
 			switch (toSearch) {
+				case 'Clear':
+					for (var i=0; i<obj.length; i++) {
+						if (obj[i].WeatherText == 'Sunny' || obj[i].WeatherText == 'Clear' || obj[i].WeatherText == 'Mostly Sunny' || obj[i].WeatherText == 'Mostly Clear') {
+							results.push(obj[i]);
+						}
+					}
 				case 'Wind':
 				for (var i=0; i<obj.length; i++) {
-					if ((obj[i].wind.speed > 6.67 || obj[i].wind.speed+obj[i].wind.gust > 15.3) && (obj[i].weather[0].main != 'Thunderstorm' && obj[i].weather[0].main != 'Rain' && obj[i].weather[0].main != 'Drizzle' && obj[i].weather[0].main != 'Snow')) {
+					if (obj[i].WeatherIcon == 32) {
 						//obj[i].weather[0].main = 'Windy';
 						results.push(obj[i]);
 					}
@@ -115,7 +113,7 @@
 				}
 
 				// push the names and locations into separate arrays
-				
+				console.log(results);
 				var loc = []; var lon = []; var lat = [];
 				if (results.length > 10) {
 					var loopEnd = 10;
