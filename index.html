@@ -35,14 +35,17 @@
 			$.get("https://raw.githubusercontent.com/shinyfinder/shinybot/weather/weather.json", function(result){
 					// assign to gobal var
 					current = result;
+					console.log(current);
 					// split on new line
 					lines = current.split(/\n/);
+					console.log(lines);
 					// remove last element (null) cuz file ends in new line
 					lines.pop();
 					// join into array and wrap in [] to create a valid json
 					wrapped = "[" + lines.join(",") + "]";
 					// parse new array as JSON
 					obj = JSON.parse(wrapped);
+					console.log(obj);
 				});
 		});
 
