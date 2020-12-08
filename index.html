@@ -147,6 +147,10 @@
 				document.getElementById('cityOut').innerHTML = loc;
 				document.getElementById('latOut').innerHTML = lat;
 				document.getElementById('lonOut').innerHTML = lon;
+
+				if (loc === undefined || loc.length == 0) {
+					document.getElementById('noRes').innerHTML = 'No results found. Check back later.';
+				}
 			}
 		</script>
 
@@ -177,6 +181,7 @@
 				<td id='lonOut'></td>
 			</tr>
 		</table>
+		<p id="noRes"></p>
 		<div id="mapid"></div>
 
 
@@ -197,6 +202,17 @@
 				zoomOffset: -1,
 				accessToken: '9de243494c0b295cca9337e1e96b00e2'
 			}).addTo(map);*/
+
+			var popup = L.popup();
+
+			function onMapClick(e) {
+				popup
+				.setLatLng(e.latlng)
+				.setContent("You clicked the map at " + e.latlng.toString())
+				.openOn(map);
+			}
+
+			map.on('click', onMapClick);
 		</script>
 	</body>
 	</html>
