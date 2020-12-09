@@ -14,30 +14,26 @@
 	integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
 	crossorigin=""></script>
 
-
-	<style type="text/css">
-		table, th, td {
-			text-align: center;
-			padding-left: 15px;
-			padding-right: 15px;
-		}
-		#mapid {height: 500px;}
-	</style>
+	<link rel="stylesheet" type="text/css" href="weather.css"></link>
+	<style type="text/css"></style>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
-		var current; var wrapped; var lines; var obj;
+		var obj; var updateHr; var resultAll = [];
 		$(document).ready(function(){
 			// get the date/time
 			var d = new Date();
 			var min = d.getMinutes();
+			var hr = d.getHours();
+			updateHr = hr;
 
 			// send notice 16 min after to refresh the page
 			var timeoutDelay = 16 - min;
 			if (timeoutDelay <= 0) {
 				timeoutDelay = timeoutDelay + 60;
+				updateHr = (hr+1) % 24;
 			}
-
+			document.getElementById('updateTime').innerHTML = 'Next weather update: ' + updateHr + ":16";
 			
 			setTimeout(function() {alert('Weather info updated. Please dismiss this alert and refresh the page to see new weather data.')}, timeoutDelay*60*1000);
 
@@ -55,6 +51,7 @@
 		function weatherFind() {
 			var results = [];
 			var toSearch = document.getElementById('weatherSelect').value;
+			document.getElementById('noRes').innerHTML = '';
 			
 			// OW condition codes: Thunderstorm, Drizzle, Rain, Snow, Mist, Smoke, Haze, Dust, Fog, Sand, Dust, Ash, Squall, Tornado, Clear, Clouds (11-25%, 26-50%, 51-84%, 85-100%)
 
@@ -127,7 +124,7 @@
 			}
 
 				// push the names and locations into separate arrays
-				console.log(results);
+				
 				var loc = []; var lon = []; var lat = [];
 				if (results.length > 10) {
 					var loopEnd = 10;
@@ -148,15 +145,48 @@
 				document.getElementById('latOut').innerHTML = lat;
 				document.getElementById('lonOut').innerHTML = lon;
 
-				if (loc === undefined || loc.length == 0) {
+				resultAll = results;
+				
+
+				if (results === undefined || results.length == 0) {
 					document.getElementById('noRes').innerHTML = 'No results found. Check back later.';
+				} else if (results.length > 10) {
+					document.getElementById('noRes').innerHTML = results.length-10 + ' more result(s) found. ' + '<a href="#" onclick="showAll()" style="color:blue;">See all?</a>';
 				}
+				
+			}
+
+			function showAll() {
+				document.getElementById('noRes').innerHTML = '';
+				var loc=[]; var lon=[]; var lat=[];
+				for (var i=0; i<resultAll.length; i++) {
+					loc.push(resultAll[i].EnglishName);
+					lon.push(resultAll[i].GeoPosition.Longitude);
+					lat.push(resultAll[i].GeoPosition.Latitude);
+				}
+				loc = loc.join('<br />');
+				lon = lon.join('<br />');
+				lat = lat.join('<br />');
+				console.log(loc);
+				document.getElementById('cityOut').innerHTML = loc;
+				document.getElementById('latOut').innerHTML = lat;
+				document.getElementById('lonOut').innerHTML = lon;
+				
 			}
 		</script>
 
 
 	</head>
 	<body>
+		<div class="header">GO! Weather Searcher</div>
+		<div class="topnav">
+			<a class="active" href="">Home</a>
+			<a href="credits.html">Credits</a>
+			<a href="about.html">About</a>
+		</div>
+		<p id="howTo">GWS is a simple webtool used to output the current forecast in 150 cities from around the world (max 10 output), updated every hour! The tool is geared toward Pok&eacute;mon GO players who would like a quick way to find a location with a specific weather. Usage is simple: choose a weather condition and click the button to get the coorindinates of the weather.</p>
+		<p id="updateTime"></p>
+		<div id="tool">
 		<label for='weatherSelect'>Choose a weather condition:</label>
 		<select name='weatherSelect' id='weatherSelect'>
 			<option value='Clear'>Clear</option>
@@ -167,7 +197,7 @@
 			<option value='Snow'>Snow</option>
 			<option value='Fog'>Fog</option>
 		</select>
-		<button id="json" onclick="weatherFind()">Find the weather!</button>
+		<button id="search" onclick="weatherFind()">Find the weather!</button>
 
 		<table>
 			<tr>
@@ -182,6 +212,7 @@
 			</tr>
 		</table>
 		<p id="noRes"></p>
+	</div>
 		<div id="mapid"></div>
 
 
