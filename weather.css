@@ -5,6 +5,7 @@ table, th, td {
 	text-align: center;
 	padding-left: 15px;
 	padding-right: 15px;
+	font-size: 17px;
 }
 
 
@@ -45,28 +46,26 @@ table, th, td {
 	color: white;
 }
 
-#tool {
-	padding: 20px;
-	font-size: 17px;
-
-}
 
 p {
 	font-size: 18px;
 }
 
-#search {
-	padding: 3px;
-}
 
-.footer {
-  background-color: #F1F1F1;
-  text-align: center;
-  padding: 10px;
-}
-
-#boostedTypes  {
-	margin: auto;
+.column {
+	float: left;
 	width: 50%;
-	float: right;
+}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .column {
+    width: 100%;
+  }
 }
