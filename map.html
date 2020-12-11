@@ -55,6 +55,12 @@
 			margin-left: 75px;
 		}
 
+		.scale-dividers.cloud > div:nth-child(n+2)  {
+			display: inline-block;
+			text-align: center;
+			margin-left: 9px;
+		}
+
 		.scale-dividers > div:nth-child(1) {
 			display: inline-block;
 			text-align: center;
@@ -107,7 +113,7 @@
 			<div style="width: 300px; background: rgba(0, 0, 0, 0) linear-gradient(to left, #1414FF, #5050E1, #6E6ECD, #7878BE, #9696AA, #C89696, #ffffff) repeat scroll 0% 0%;" class="horizontal-gradient-line"></div>
 		</div>
 	</div>
-		<div class="scale-details">
+	<div class="scale-details">
 		<div>Rain, mm</div>
 		<div class="gradient-container">
 			<div style="width: 300px;" class="scale-dividers ">
@@ -122,7 +128,7 @@
 			<div style="width: 300px; background: rgba(0, 0, 0, 0) linear-gradient(to left, #1414FF, #5050E1, #6E6ECD, #7878BE, #9696AA, #C89632, #ffffff) repeat scroll 0% 0%;" class="horizontal-gradient-line"></div>
 		</div>
 	</div>
-		<div class="scale-details">
+	<div class="scale-details">
 		<div>Snow, mm</div>
 		<div class="gradient-container snow">
 			<div style="width: 300px;" class="scale-dividers snow">
@@ -132,6 +138,25 @@
 				<div>25</div>
 			</div>
 			<div style="width: 300px; background: rgba(0, 0, 0, 0) linear-gradient(to left, #9549FF, #00B6FF, #FFFFFF) repeat scroll 0% 0%;" class="horizontal-gradient-line"></div>
+		</div>
+	</div>
+		<div class="scale-details">
+		<div>Cloud, %</div>
+		<div class="gradient-container cloud">
+			<div style="width: 300px;" class="scale-dividers cloud">
+				<div>0</div>
+				<div>10</div>
+				<div>20</div>
+				<div>30</div>
+				<div>40</div>
+				<div>50</div>
+				<div>60</div>
+				<div>70</div>
+				<div>80</div>
+				<div>90</div>
+				<div>100</div>
+			</div>
+			<div style="width: 300px; background: rgba(0, 0, 0, 0) linear-gradient(to left, #D2D2D2, #DEDEDE, #E9E9DF, #F4F4FF, #F6F5FF, #F7F7FF, #F9F8FF, #FAFAFF, #FCFBFF, #FDFDFF, #FFFFFF) repeat scroll 0% 0%;" class="horizontal-gradient-line"></div>
 		</div>
 	</div>
 
@@ -166,7 +191,7 @@
 		var rain = L.tileLayer('https://{s}.sat.owm.io/vane/2.0/weather/PAR0/{z}/{x}/{y}?appid={accessToken}', {
 			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
 			maxZoom: 18,
-			id: 'precipitation',
+			id: 'rain',
 			tileSize: 512,
 			zoomOffset: -1,
 				accessToken: '9de243494c0b295cca9337e1e96b00e2' // key from openweathermap. Please get/use your own.
@@ -175,7 +200,16 @@
 		var snow = L.tileLayer('https://{s}.sat.owm.io/vane/2.0/weather/PAS0/{z}/{x}/{y}?appid={accessToken}', {
 			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
 			maxZoom: 18,
-			id: 'precipitation',
+			id: 'snow',
+			tileSize: 512,
+			zoomOffset: -1,
+				accessToken: '9de243494c0b295cca9337e1e96b00e2' // key from openweathermap. Please get/use your own.
+			});
+
+		var cloud = L.tileLayer('https://{s}.sat.owm.io/vane/2.0/weather/CL/{z}/{x}/{y}?opacity=0.8&appid={accessToken}', {
+			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+			maxZoom: 18,
+			id: 'cloud',
 			tileSize: 512,
 			zoomOffset: -1,
 				accessToken: '9de243494c0b295cca9337e1e96b00e2' // key from openweathermap. Please get/use your own.
@@ -187,7 +221,8 @@
 			"Wind": wind,
 			"Any Precip.": precip,
 			"Rain": rain,
-			"Snow": snow
+			"Snow": snow,
+			"Clouds": cloud
 		}
 
 		var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
