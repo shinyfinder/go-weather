@@ -167,10 +167,7 @@
 				
 
 				if (results === undefined || results.length == 0) {
-					document.getElementById('noRes').innerHTML = 'No results found. Check back later.';
-					if (toSearch == "Wind") {
-						document.getElementById('noRes').innerHTML += ' Check the <a href="map.html">map</a> for more possible locations.'
-					}
+					document.getElementById('noRes').innerHTML = 'No results found. Check back later, or check the <a href="map.html">map</a> for more possible locations.';
 				} else if (results.length > 10) {
 					document.getElementById('noRes').innerHTML = results.length-10 + ' more result(s) found. ' + '<a href="#" onclick="showAll()" style="color:blue;">See all?</a>';
 				}
