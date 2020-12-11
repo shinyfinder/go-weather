@@ -49,6 +49,12 @@
 			margin-left: 25px;
 		}
 
+		.scale-dividers.snow > div:nth-child(n+2)  {
+			display: inline-block;
+			text-align: center;
+			margin-left: 75px;
+		}
+
 		.scale-dividers > div:nth-child(1) {
 			display: inline-block;
 			text-align: center;
@@ -98,7 +104,34 @@
 				<div>10</div>
 				<div>140</div>
 			</div>
-			<div style="width: 300px; background: rgba(0, 0, 0, 0) linear-gradient(to left, #C89696, #9696AA, #7878BE, #6E6ECD, #5050E1, #ffffff) repeat scroll 0% 0%;" class="horizontal-gradient-line"></div>
+			<div style="width: 300px; background: rgba(0, 0, 0, 0) linear-gradient(to left, #1414FF, #5050E1, #6E6ECD, #7878BE, #9696AA, #C89696, #ffffff) repeat scroll 0% 0%;" class="horizontal-gradient-line"></div>
+		</div>
+	</div>
+		<div class="scale-details">
+		<div>Rain, mm</div>
+		<div class="gradient-container">
+			<div style="width: 300px;" class="scale-dividers ">
+				<div>0</div>
+				<div>0.1</div>
+				<div>0.2</div>
+				<div>0.5</div>
+				<div>1</div>
+				<div>10</div>
+				<div>140</div>
+			</div>
+			<div style="width: 300px; background: rgba(0, 0, 0, 0) linear-gradient(to left, #1414FF, #5050E1, #6E6ECD, #7878BE, #9696AA, #C89632, #ffffff) repeat scroll 0% 0%;" class="horizontal-gradient-line"></div>
+		</div>
+	</div>
+		<div class="scale-details">
+		<div>Snow, mm</div>
+		<div class="gradient-container snow">
+			<div style="width: 300px;" class="scale-dividers snow">
+				<div>0</div>
+				<div>5</div>
+				<div>10</div>
+				<div>25</div>
+			</div>
+			<div style="width: 300px; background: rgba(0, 0, 0, 0) linear-gradient(to left, #9549FF, #00B6FF, #FFFFFF) repeat scroll 0% 0%;" class="horizontal-gradient-line"></div>
 		</div>
 	</div>
 
@@ -112,47 +145,67 @@
 
 		var map = L.map('mapid', { center: new L.LatLng(40, -40), zoom: 2, layers: [osm] });
 
-			var wind = L.tileLayer('https://{s}.sat.owm.io/vane/2.0/weather/WS10/{z}/{x}/{y}?opacity=0.6&palette=0:ffffff;2:ffffff;3:ffffff;6:ffffff;12:00ff00;25:00ff00;50:00ff00;100:00ff00&appid={accessToken}', {
-				attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-				maxZoom: 18,
-				id: 'wind',
-				tileSize: 512,
-				zoomOffset: -1,
+		var wind = L.tileLayer('https://{s}.sat.owm.io/vane/2.0/weather/WS10/{z}/{x}/{y}?opacity=0.6&palette=0:ffffff;2:ffffff;3:ffffff;6:ffffff;12:00ff00;25:00ff00;50:00ff00;100:00ff00&appid={accessToken}', {
+			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+			maxZoom: 18,
+			id: 'wind',
+			tileSize: 512,
+			zoomOffset: -1,
 				accessToken: '9de243494c0b295cca9337e1e96b00e2' // key from openweathermap. Please get/use your own.
 			});
 
-			var precip = L.tileLayer('https://{s}.sat.owm.io/vane/2.0/weather/PA0/{z}/{x}/{y}?appid={accessToken}', {
-				attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-				maxZoom: 18,
-				id: 'precipitation',
-				tileSize: 512,
-				zoomOffset: -1,
+		var precip = L.tileLayer('https://{s}.sat.owm.io/vane/2.0/weather/PA0/{z}/{x}/{y}?appid={accessToken}', {
+			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+			maxZoom: 18,
+			id: 'precipitation',
+			tileSize: 512,
+			zoomOffset: -1,
 				accessToken: '9de243494c0b295cca9337e1e96b00e2' // key from openweathermap. Please get/use your own.
 			});
 
-			
-			var baseMaps = {"OSM Standard": osm };
-			var overlayMaps = {
-				"Wind": wind,
-				"Precipitation": precip
-			}
+		var rain = L.tileLayer('https://{s}.sat.owm.io/vane/2.0/weather/PAR0/{z}/{x}/{y}?appid={accessToken}', {
+			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+			maxZoom: 18,
+			id: 'precipitation',
+			tileSize: 512,
+			zoomOffset: -1,
+				accessToken: '9de243494c0b295cca9337e1e96b00e2' // key from openweathermap. Please get/use your own.
+			});
 
-			var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
+		var snow = L.tileLayer('https://{s}.sat.owm.io/vane/2.0/weather/PAS0/{z}/{x}/{y}?appid={accessToken}', {
+			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+			maxZoom: 18,
+			id: 'precipitation',
+			tileSize: 512,
+			zoomOffset: -1,
+				accessToken: '9de243494c0b295cca9337e1e96b00e2' // key from openweathermap. Please get/use your own.
+			});
+
+
+		var baseMaps = {"OSM Standard": osm };
+		var overlayMaps = {
+			"Wind": wind,
+			"Any Precip.": precip,
+			"Rain": rain,
+			"Snow": snow
+		}
+
+		var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
 
 
 
 
 
-			var popup = L.popup();
+		var popup = L.popup();
 
-			function onMapClick(e) {
-				popup
-				.setLatLng(e.latlng)
-				.setContent("You clicked the map at " + e.latlng.toString())
-				.openOn(map);
-			}
+		function onMapClick(e) {
+			popup
+			.setLatLng(e.latlng)
+			.setContent("You clicked the map at " + e.latlng.toString())
+			.openOn(map);
+		}
 
-			map.on('click', onMapClick);
-		</script>
-	</body>
-	</html>
+		map.on('click', onMapClick);
+	</script>
+</body>
+</html>
