@@ -31,26 +31,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:55:00+06:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T06:06:00+06:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 31.1,
+    "Value": 25,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 88,
+    "Value": 77,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/bd/dhaka/28143/current-weather/28143?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/bd/dhaka/28143/current-weather/28143?lang=en-us",
   "Link": "http://www.accuweather.com/en/bd/dhaka/28143/current-weather/28143?lang=en-us"
  },
  {
@@ -85,16 +85,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:03:00+01:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T00:56:00+01:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 24.1,
+    "Value": 23.7,
     "Unit": "C",
     "UnitType": 17
    },
@@ -104,7 +104,7 @@
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/cd/kinshasa/113487/current-weather/113487?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/cd/kinshasa/113487/current-weather/113487?lang=en-us",
   "Link": "http://www.accuweather.com/en/cd/kinshasa/113487/current-weather/113487?lang=en-us"
  },
  {
@@ -139,26 +139,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 8.4,
+    "Value": 10.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 47,
+    "Value": 51,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/cl/santiago/60449/current-weather/60449?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/cl/santiago/60449/current-weather/60449?lang=en-us",
   "Link": "http://www.accuweather.com/en/cl/santiago/60449/current-weather/60449?lang=en-us"
  },
  {
@@ -193,31 +193,31 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T14:46:00+08:00",
-  "EpochTime": 1624603560,
-  "WeatherText": "Cloudy",
+  "LocalObservationDateTime": "2021-07-01T07:31:00+08:00",
+  "EpochTime": 1625095860,
+  "WeatherText": "Overcast",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "LocalSource": {
    "Id": 7,
    "Name": "Huafeng",
-   "WeatherCode": "01"
+   "WeatherCode": "02"
   },
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 26.1,
+    "Value": 22.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 79,
+    "Value": 73,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/cn/beijing/101924/current-weather/101924?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/cn/beijing/101924/current-weather/101924?lang=en-us",
   "Link": "http://www.accuweather.com/en/cn/beijing/101924/current-weather/101924?lang=en-us"
  },
  {
@@ -252,8 +252,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T01:55:00-05:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-06-30T18:55:00-05:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -261,17 +261,17 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 11.3,
+    "Value": 14.7,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 52,
+    "Value": 59,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/co/bogota/107487/current-weather/107487?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/co/bogota/107487/current-weather/107487?lang=en-us",
   "Link": "http://www.accuweather.com/en/co/bogota/107487/current-weather/107487?lang=en-us"
  },
  {
@@ -306,26 +306,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
-  "IsDayTime": true,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Light rain",
+  "WeatherIcon": 12,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 18.7,
+    "Value": 15.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 66,
+    "Value": 60,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/de/berlin/10178/current-weather/178087?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/de/berlin/10178/current-weather/178087?lang=en-us",
   "Link": "http://www.accuweather.com/en/de/berlin/10178/current-weather/178087?lang=en-us"
  },
  {
@@ -360,26 +360,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:03:00+02:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T01:56:00+02:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 29.8,
+    "Value": 28.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 86,
+    "Value": 83,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/eg/cairo/127164/current-weather/127164?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/eg/cairo/127164/current-weather/127164?lang=en-us",
   "Link": "http://www.accuweather.com/en/eg/cairo/127164/current-weather/127164?lang=en-us"
  },
  {
@@ -414,26 +414,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 19,
+    "Value": 21.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 66,
+    "Value": 71,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/es/madrid/308526/current-weather/308526?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/es/madrid/308526/current-weather/308526?lang=en-us",
   "Link": "http://www.accuweather.com/en/es/madrid/308526/current-weather/308526?lang=en-us"
  },
  {
@@ -468,26 +468,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:04:00+01:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-07-01T01:02:00+01:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 15.4,
+    "Value": 15.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 60,
+    "Value": 59,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/gb/london/ec4a-2/current-weather/328328?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/gb/london/ec4a-2/current-weather/328328?lang=en-us",
   "Link": "http://www.accuweather.com/en/gb/london/ec4a-2/current-weather/328328?lang=en-us"
  },
  {
@@ -522,26 +522,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:04:00+03:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T03:02:00+03:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 32.2,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 90,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/gr/athens/182536/current-weather/182536?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/gr/athens/182536/current-weather/182536?lang=en-us",
   "Link": "http://www.accuweather.com/en/gr/athens/182536/current-weather/182536?lang=en-us"
  },
  {
@@ -576,31 +576,31 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T14:55:00+08:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Overcast",
-  "WeatherIcon": 7,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2021-07-01T08:06:00+08:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Thundershower",
+  "WeatherIcon": 15,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "LocalSource": {
    "Id": 7,
    "Name": "Huafeng",
-   "WeatherCode": "02"
+   "WeatherCode": "04"
   },
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 28.8,
+    "Value": 29.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 84,
+    "Value": 85,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/hk/hong-kong/1123655/current-weather/1123655?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/hk/hong-kong/1123655/current-weather/1123655?lang=en-us",
   "Link": "http://www.accuweather.com/en/hk/hong-kong/1123655/current-weather/1123655?lang=en-us"
  },
  {
@@ -635,26 +635,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T14:05:00+07:00",
-  "EpochTime": 1624604700,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T07:05:00+07:00",
+  "EpochTime": 1625097900,
+  "WeatherText": "Light fog",
+  "WeatherIcon": 11,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 31.1,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 88,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/id/jakarta/208971/current-weather/208971?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/id/jakarta/208971/current-weather/208971?lang=en-us",
   "Link": "http://www.accuweather.com/en/id/jakarta/208971/current-weather/208971?lang=en-us"
  },
  {
@@ -689,26 +689,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T02:55:00+03:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 37.2,
+    "Value": 35,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 99,
+    "Value": 95,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/iq/baghdad/207375/current-weather/207375?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/iq/baghdad/207375/current-weather/207375?lang=en-us",
   "Link": "http://www.accuweather.com/en/iq/baghdad/207375/current-weather/207375?lang=en-us"
  },
  {
@@ -743,26 +743,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T15:55:00+09:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2021-07-01T09:06:00+09:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Rain",
+  "WeatherIcon": 18,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 27.2,
+    "Value": 21.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 81,
+    "Value": 70,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/jp/tokyo/226396/current-weather/226396?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/jp/tokyo/226396/current-weather/226396?lang=en-us",
   "Link": "http://www.accuweather.com/en/jp/tokyo/226396/current-weather/226396?lang=en-us"
  },
  {
@@ -797,26 +797,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T15:55:00+09:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-07-01T09:06:00+09:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 27.4,
+    "Value": 24.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 81,
+    "Value": 76,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/kp/pyongyang/225058/current-weather/225058?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/kp/pyongyang/225058/current-weather/225058?lang=en-us",
   "Link": "http://www.accuweather.com/en/kp/pyongyang/225058/current-weather/225058?lang=en-us"
  },
  {
@@ -851,26 +851,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T15:55:00+09:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
+  "LocalObservationDateTime": "2021-07-01T09:06:00+09:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 27.9,
+    "Value": 25.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 82,
+    "Value": 78,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/kr/seoul/226081/current-weather/226081?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/kr/seoul/226081/current-weather/226081?lang=en-us",
   "Link": "http://www.accuweather.com/en/kr/seoul/226081/current-weather/226081?lang=en-us"
  },
  {
@@ -905,26 +905,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T01:55:00-05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
-  "IsDayTime": false,
+  "LocalObservationDateTime": "2021-06-30T18:55:00-05:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Thundershower",
+  "WeatherIcon": 15,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 15,
+    "Value": 17.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 59,
+    "Value": 63,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/mx/mexico-city/242560/current-weather/242560?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/mx/mexico-city/242560/current-weather/242560?lang=en-us",
   "Link": "http://www.accuweather.com/en/mx/mexico-city/242560/current-weather/242560?lang=en-us"
  },
  {
@@ -959,26 +959,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T01:55:00-05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-06-30T18:55:00-05:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Hazy clouds",
+  "WeatherIcon": 37,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 17.2,
+    "Value": 18.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 63,
+    "Value": 65,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/pe/lima/264120/current-weather/264120?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/pe/lima/264120/current-weather/264120?lang=en-us",
   "Link": "http://www.accuweather.com/en/pe/lima/264120/current-weather/264120?lang=en-us"
  },
  {
@@ -1013,26 +1013,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Hazy sunshine",
-  "WeatherIcon": 5,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Some clouds",
+  "WeatherIcon": 36,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 28.6,
+    "Value": 16.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 84,
+    "Value": 62,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ru/moscow/294021/current-weather/294021?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ru/moscow/294021/current-weather/294021?lang=en-us",
   "Link": "http://www.accuweather.com/en/ru/moscow/294021/current-weather/294021?lang=en-us"
  },
  {
@@ -1067,26 +1067,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 37.3,
+    "Value": 32.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 99,
+    "Value": 91,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/sa/riyadh/297030/current-weather/297030?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/sa/riyadh/297030/current-weather/297030?lang=en-us",
   "Link": "http://www.accuweather.com/en/sa/riyadh/297030/current-weather/297030?lang=en-us"
  },
  {
@@ -1121,26 +1121,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T15:05:00+08:00",
-  "EpochTime": 1624604700,
-  "WeatherText": "Thundershower",
-  "WeatherIcon": 17,
-  "HasPrecipitation": true,
-  "PrecipitationType": "Rain",
+  "LocalObservationDateTime": "2021-07-01T08:05:00+08:00",
+  "EpochTime": 1625097900,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
+  "HasPrecipitation": false,
+  "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 31.1,
+    "Value": 28.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 88,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/sg/singapore/300597/current-weather/300597?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/sg/singapore/300597/current-weather/300597?lang=en-us",
   "Link": "http://www.accuweather.com/en/sg/singapore/300597/current-weather/300597?lang=en-us"
  },
  {
@@ -1175,8 +1175,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T13:55:00+07:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T07:06:00+07:00",
+  "EpochTime": 1625097960,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 6,
   "HasPrecipitation": false,
@@ -1184,17 +1184,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 33.5,
+    "Value": 27.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 92,
+    "Value": 82,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/th/bangkok/318849/current-weather/318849?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/th/bangkok/318849/current-weather/318849?lang=en-us",
   "Link": "http://www.accuweather.com/en/th/bangkok/318849/current-weather/318849?lang=en-us"
  },
  {
@@ -1229,8 +1229,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T13:55:00+07:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T07:06:00+07:00",
+  "EpochTime": 1625097960,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -1238,17 +1238,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 32.9,
+    "Value": 29.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 91,
+    "Value": 85,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/vn/hanoi/353412/current-weather/353412?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/vn/hanoi/353412/current-weather/353412?lang=en-us",
   "Link": "http://www.accuweather.com/en/vn/hanoi/353412/current-weather/353412?lang=en-us"
  },
  {
@@ -1283,26 +1283,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T17:05:00+10:00",
-  "EpochTime": 1624604700,
-  "WeatherText": "Clear",
-  "WeatherIcon": 33,
+  "LocalObservationDateTime": "2021-07-01T10:05:00+10:00",
+  "EpochTime": 1625097900,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 17.6,
+    "Value": 13.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 64,
+    "Value": 57,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/au/sydney/22889/current-weather/22889?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/au/sydney/22889/current-weather/22889?lang=en-us",
   "Link": "http://www.accuweather.com/en/au/sydney/22889/current-weather/22889?lang=en-us"
  },
  {
@@ -1337,8 +1337,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T16:55:00+10:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T10:05:00+10:00",
+  "EpochTime": 1625097900,
   "WeatherText": "Partly sunny",
   "WeatherIcon": 3,
   "HasPrecipitation": false,
@@ -1346,17 +1346,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 11.1,
+    "Value": 12.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 52,
+    "Value": 55,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/au/melbourne/26216/current-weather/26216?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/au/melbourne/26216/current-weather/26216?lang=en-us",
   "Link": "http://www.accuweather.com/en/au/melbourne/26216/current-weather/26216?lang=en-us"
  },
  {
@@ -1391,26 +1391,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:55:00-03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Some clouds",
-  "WeatherIcon": 36,
+  "LocalObservationDateTime": "2021-06-30T20:55:00-03:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 15.5,
+    "Value": 18.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 60,
+    "Value": 65,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/br/rio-de-janeiro/45449/current-weather/45449?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/br/rio-de-janeiro/45449/current-weather/45449?lang=en-us",
   "Link": "http://www.accuweather.com/en/br/rio-de-janeiro/45449/current-weather/45449?lang=en-us"
  },
  {
@@ -1445,8 +1445,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T14:46:00+08:00",
-  "EpochTime": 1624603560,
+  "LocalObservationDateTime": "2021-07-01T07:31:00+08:00",
+  "EpochTime": 1625095860,
   "WeatherText": "Overcast",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -1459,17 +1459,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 32.2,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 90,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/cn/shanghai/106577/current-weather/106577?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/cn/shanghai/106577/current-weather/106577?lang=en-us",
   "Link": "http://www.accuweather.com/en/cn/shanghai/106577/current-weather/106577?lang=en-us"
  },
  {
@@ -1504,26 +1504,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:25:00+05:30",
-  "EpochTime": 1624604100,
-  "WeatherText": "Hazy sunshine",
-  "WeatherIcon": 5,
+  "LocalObservationDateTime": "2021-07-01T05:36:00+05:30",
+  "EpochTime": 1625097960,
+  "WeatherText": "Mostly sunny",
+  "WeatherIcon": 2,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 34.5,
+    "Value": 32.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 94,
+    "Value": 90,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/in/delhi/202396/current-weather/202396?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/in/delhi/202396/current-weather/202396?lang=en-us",
   "Link": "http://www.accuweather.com/en/in/delhi/202396/current-weather/202396?lang=en-us"
  },
  {
@@ -1558,26 +1558,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:25:00+05:30",
-  "EpochTime": 1624604100,
-  "WeatherText": "Clouds and sun",
-  "WeatherIcon": 4,
+  "LocalObservationDateTime": "2021-07-01T05:36:00+05:30",
+  "EpochTime": 1625097960,
+  "WeatherText": "Some clouds",
+  "WeatherIcon": 36,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 27.2,
+    "Value": 22,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 81,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/in/bengaluru/204108/current-weather/204108?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/current-weather/204108?lang=en-us",
   "Link": "http://www.accuweather.com/en/in/bengaluru/204108/current-weather/204108?lang=en-us"
  },
  {
@@ -1612,26 +1612,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:25:00+05:30",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T05:36:00+05:30",
+  "EpochTime": 1625097960,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 27.2,
+    "Value": 28.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 81,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/in/mumbai/204842/current-weather/204842?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/in/mumbai/204842/current-weather/204842?lang=en-us",
   "Link": "http://www.accuweather.com/en/in/mumbai/204842/current-weather/204842?lang=en-us"
  },
  {
@@ -1666,26 +1666,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:25:00+05:30",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T05:25:00+05:30",
+  "EpochTime": 1625097300,
+  "WeatherText": "Light fog",
+  "WeatherIcon": 11,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 35,
+    "Value": 27.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 95,
+    "Value": 81,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/in/chennai/206671/current-weather/206671?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/in/chennai/206671/current-weather/206671?lang=en-us",
   "Link": "http://www.accuweather.com/en/in/chennai/206671/current-weather/206671?lang=en-us"
  },
  {
@@ -1720,26 +1720,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:25:00+05:30",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T05:36:00+05:30",
+  "EpochTime": 1625097960,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 33.8,
+    "Value": 26.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 93,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/in/kolkata/206690/current-weather/206690?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/in/kolkata/206690/current-weather/206690?lang=en-us",
   "Link": "http://www.accuweather.com/en/in/kolkata/206690/current-weather/206690?lang=en-us"
  },
  {
@@ -1774,16 +1774,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T15:55:00+09:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
+  "LocalObservationDateTime": "2021-07-01T09:06:00+09:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 27,
+    "Value": 27.4,
     "Unit": "C",
     "UnitType": 17
    },
@@ -1793,7 +1793,7 @@
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/kr/busan/222888/current-weather/222888?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/kr/busan/222888/current-weather/222888?lang=en-us",
   "Link": "http://www.accuweather.com/en/kr/busan/222888/current-weather/222888?lang=en-us"
  },
  {
@@ -1828,8 +1828,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T13:25:00+06:30",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T06:36:00+06:30",
+  "EpochTime": 1625097960,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -1837,17 +1837,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 31.1,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 88,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/mm/yangon/246562/current-weather/246562?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/mm/yangon/246562/current-weather/246562?lang=en-us",
   "Link": "http://www.accuweather.com/en/mm/yangon/246562/current-weather/246562?lang=en-us"
  },
  {
@@ -1882,26 +1882,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T11:55:00+05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T05:06:00+05:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 32.8,
+    "Value": 28.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 91,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/pk/karachi/261158/current-weather/261158?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/pk/karachi/261158/current-weather/261158?lang=en-us",
   "Link": "http://www.accuweather.com/en/pk/karachi/261158/current-weather/261158?lang=en-us"
  },
  {
@@ -1936,26 +1936,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 23.9,
+    "Value": 16.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 75,
+    "Value": 61,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ru/saint-petersburg/295212/current-weather/295212?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ru/saint-petersburg/295212/current-weather/295212?lang=en-us",
   "Link": "http://www.accuweather.com/en/ru/saint-petersburg/295212/current-weather/295212?lang=en-us"
  },
  {
@@ -1990,26 +1990,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 25.2,
+    "Value": 23.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 77,
+    "Value": 74,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/tr/istanbul/318251/current-weather/318251?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/tr/istanbul/318251/current-weather/318251?lang=en-us",
   "Link": "http://www.accuweather.com/en/tr/istanbul/318251/current-weather/318251?lang=en-us"
  },
  {
@@ -2044,26 +2044,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T13:55:00+07:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T06:55:00+07:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 33.9,
+    "Value": 27.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 93,
+    "Value": 82,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/vn/ho-chi-minh-city/353981/current-weather/353981?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/vn/ho-chi-minh-city/353981/current-weather/353981?lang=en-us",
   "Link": "http://www.accuweather.com/en/vn/ho-chi-minh-city/353981/current-weather/353981?lang=en-us"
  },
  {
@@ -2098,26 +2098,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:03:00+02:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T01:56:00+02:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 12.2,
+    "Value": 11.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 54,
+    "Value": 53,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/za/johannesburg/305448/current-weather/305448?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/za/johannesburg/305448/current-weather/305448?lang=en-us",
   "Link": "http://www.accuweather.com/en/za/johannesburg/305448/current-weather/305448?lang=en-us"
  },
  {
@@ -2152,26 +2152,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:03:00+01:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T00:56:00+01:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 25.8,
+    "Value": 27.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 78,
+    "Value": 81,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ng/lagos/4607/current-weather/4607?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ng/lagos/4607/current-weather/4607?lang=en-us",
   "Link": "http://www.accuweather.com/en/ng/lagos/4607/current-weather/4607?lang=en-us"
  },
  {
@@ -2206,26 +2206,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T00:00:00-07:00",
-  "EpochTime": 1624604400,
-  "WeatherText": "Clear",
-  "WeatherIcon": 33,
+  "LocalObservationDateTime": "2021-06-30T16:59:00-07:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Sunny",
+  "WeatherIcon": 1,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 17.8,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 64,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/los-angeles-ca/90012/current-weather/347625?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/los-angeles-ca/90012/current-weather/347625?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/los-angeles-ca/90012/current-weather/347625?lang=en-us"
  },
  {
@@ -2260,26 +2260,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:00:00-04:00",
-  "EpochTime": 1624604400,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-06-30T19:59:00-04:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Mostly sunny",
+  "WeatherIcon": 2,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 18.3,
+    "Value": 33.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 65,
+    "Value": 93,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/new-york-ny/10007/current-weather/349727?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/new-york-ny/10007/current-weather/349727?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/new-york-ny/10007/current-weather/349727?lang=en-us"
  },
  {
@@ -2314,26 +2314,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T11:25:00+04:30",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T04:36:00+04:30",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 27.8,
+    "Value": 20,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 82,
+    "Value": 68,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/af/kabul/4361/current-weather/4361?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/af/kabul/4361/current-weather/4361?lang=en-us",
   "Link": "http://www.accuweather.com/en/af/kabul/4361/current-weather/4361?lang=en-us"
  },
  {
@@ -2368,26 +2368,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:55:00+04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T04:06:00+04:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 29.6,
+    "Value": 20.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 85,
+    "Value": 69,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/am/yerevan/16890/current-weather/16890?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/am/yerevan/16890/current-weather/16890?lang=en-us",
   "Link": "http://www.accuweather.com/en/am/yerevan/16890/current-weather/16890?lang=en-us"
  },
  {
@@ -2422,26 +2422,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:03:00+01:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T00:56:00+01:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 22.2,
+    "Value": 23.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 72,
+    "Value": 75,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ao/luanda/4651/current-weather/4651?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ao/luanda/4651/current-weather/4651?lang=en-us",
   "Link": "http://www.accuweather.com/en/ao/luanda/4651/current-weather/4651?lang=en-us"
  },
  {
@@ -2476,8 +2476,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:55:00-03:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-06-30T20:55:00-03:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -2485,17 +2485,17 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 11.1,
+    "Value": 10,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 52,
+    "Value": 50,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ar/buenos-aires/7894/current-weather/7894?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ar/buenos-aires/7894/current-weather/7894?lang=en-us",
   "Link": "http://www.accuweather.com/en/ar/buenos-aires/7894/current-weather/7894?lang=en-us"
  },
  {
@@ -2530,26 +2530,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 21.6,
+    "Value": 15.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 71,
+    "Value": 60,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/at/vienna/31868/current-weather/31868?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/at/vienna/31868/current-weather/31868?lang=en-us",
   "Link": "http://www.accuweather.com/en/at/vienna/31868/current-weather/31868?lang=en-us"
  },
  {
@@ -2584,26 +2584,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:04:00+03:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T03:02:00+03:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 27.2,
+    "Value": 22.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 81,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/bg/sofia/51097/current-weather/51097?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/bg/sofia/51097/current-weather/51097?lang=en-us",
   "Link": "http://www.accuweather.com/en/bg/sofia/51097/current-weather/51097?lang=en-us"
  },
  {
@@ -2638,8 +2638,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:55:00-03:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-06-30T20:55:00-03:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -2647,17 +2647,17 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 14.8,
+    "Value": 15.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 59,
+    "Value": 60,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/br/brasilia/43348/current-weather/43348?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/br/brasilia/43348/current-weather/43348?lang=en-us",
   "Link": "http://www.accuweather.com/en/br/brasilia/43348/current-weather/43348?lang=en-us"
  },
  {
@@ -2692,26 +2692,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:57:00+03:00",
-  "EpochTime": 1624604220,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T02:57:00+03:00",
+  "EpochTime": 1625097420,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 24,
+    "Value": 18.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 75,
+    "Value": 65,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/by/minsk/28580/current-weather/28580?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/by/minsk/28580/current-weather/28580?lang=en-us",
   "Link": "http://www.accuweather.com/en/by/minsk/28580/current-weather/28580?lang=en-us"
  },
  {
@@ -2746,26 +2746,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:54:00-04:00",
-  "EpochTime": 1624604040,
-  "WeatherText": "Light rain",
-  "WeatherIcon": 12,
-  "HasPrecipitation": true,
-  "PrecipitationType": "Rain",
-  "IsDayTime": false,
+  "LocalObservationDateTime": "2021-06-30T19:59:00-04:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
+  "HasPrecipitation": false,
+  "PrecipitationType": null,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 20.5,
+    "Value": 23,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 69,
+    "Value": 73,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ca/ottawa/k1p/current-weather/55487?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ca/ottawa/k1p/current-weather/55487?lang=en-us",
   "Link": "http://www.accuweather.com/en/ca/ottawa/k1p/current-weather/55487?lang=en-us"
  },
  {
@@ -2800,26 +2800,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 24.9,
+    "Value": 26.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 77,
+    "Value": 80,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/cu/havana/122438/current-weather/122438?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/cu/havana/122438/current-weather/122438?lang=en-us",
   "Link": "http://www.accuweather.com/en/cu/havana/122438/current-weather/122438?lang=en-us"
  },
  {
@@ -2854,26 +2854,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Light rain",
-  "WeatherIcon": 12,
-  "HasPrecipitation": true,
-  "PrecipitationType": "Rain",
-  "IsDayTime": true,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
+  "HasPrecipitation": false,
+  "PrecipitationType": null,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 16.7,
+    "Value": 14.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 62,
+    "Value": 58,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/cz/prague/125594/current-weather/125594?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/cz/prague/125594/current-weather/125594?lang=en-us",
   "Link": "http://www.accuweather.com/en/cz/prague/125594/current-weather/125594?lang=en-us"
  },
  {
@@ -2908,26 +2908,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "A shower",
+  "WeatherIcon": 39,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 24.6,
+    "Value": 28.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 76,
+    "Value": 83,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/do/santo-domingo/125887/current-weather/125887?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/do/santo-domingo/125887/current-weather/125887?lang=en-us",
   "Link": "http://www.accuweather.com/en/do/santo-domingo/125887/current-weather/125887?lang=en-us"
  },
  {
@@ -2962,26 +2962,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:03:00+01:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T00:56:00+01:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 21.9,
+    "Value": 22.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 71,
+    "Value": 73,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/dz/algiers/2093/current-weather/2093?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/dz/algiers/2093/current-weather/2093?lang=en-us",
   "Link": "http://www.accuweather.com/en/dz/algiers/2093/current-weather/2093?lang=en-us"
  },
  {
@@ -3016,26 +3016,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T01:55:00-05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "A shower",
-  "WeatherIcon": 12,
-  "HasPrecipitation": true,
-  "PrecipitationType": "Rain",
+  "LocalObservationDateTime": "2021-06-30T18:55:00-05:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
+  "HasPrecipitation": false,
+  "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 10.7,
+    "Value": 17.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 51,
+    "Value": 64,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ec/quito/129846/current-weather/129846?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ec/quito/129846/current-weather/129846?lang=en-us",
   "Link": "http://www.accuweather.com/en/ec/quito/129846/current-weather/129846?lang=en-us"
  },
  {
@@ -3070,26 +3070,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 14,
+    "Value": 13.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 57,
+    "Value": 56,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/fr/paris/623/current-weather/623?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/fr/paris/623/current-weather/623?lang=en-us",
   "Link": "http://www.accuweather.com/en/fr/paris/623/current-weather/623?lang=en-us"
  },
  {
@@ -3124,26 +3124,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:55:00+04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T04:06:00+04:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 31.1,
+    "Value": 22.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 88,
+    "Value": 73,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ge/tbilisi/171705/current-weather/171705?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ge/tbilisi/171705/current-weather/171705?lang=en-us",
   "Link": "http://www.accuweather.com/en/ge/tbilisi/171705/current-weather/171705?lang=en-us"
  },
  {
@@ -3178,26 +3178,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 24.5,
+    "Value": 30,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 76,
+    "Value": 86,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ht/port-au-prince/189891/current-weather/189891?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ht/port-au-prince/189891/current-weather/189891?lang=en-us",
   "Link": "http://www.accuweather.com/en/ht/port-au-prince/189891/current-weather/189891?lang=en-us"
  },
  {
@@ -3232,26 +3232,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26,
+    "Value": 19.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 79,
+    "Value": 67,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/hu/budapest/187423/current-weather/187423?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/hu/budapest/187423/current-weather/187423?lang=en-us",
   "Link": "http://www.accuweather.com/en/hu/budapest/187423/current-weather/187423?lang=en-us"
  },
  {
@@ -3286,26 +3286,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T11:25:00+04:30",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T04:36:00+04:30",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 32.2,
+    "Value": 28.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 90,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ir/tehran/210841/current-weather/210841?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ir/tehran/210841/current-weather/210841?lang=en-us",
   "Link": "http://www.accuweather.com/en/ir/tehran/210841/current-weather/210841?lang=en-us"
  },
  {
@@ -3340,26 +3340,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:57:00+02:00",
-  "EpochTime": 1624604220,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-07-01T01:57:00+02:00",
+  "EpochTime": 1625097420,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 22.8,
+    "Value": 21.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 73,
+    "Value": 70,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/it/rome/213490/current-weather/213490?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/it/rome/213490/current-weather/213490?lang=en-us",
   "Link": "http://www.accuweather.com/en/it/rome/213490/current-weather/213490?lang=en-us"
  },
  {
@@ -3394,26 +3394,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:03:00+03:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-07-01T02:56:00+03:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 16.5,
+    "Value": 15,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 62,
+    "Value": 59,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ke/nairobi/224758/current-weather/224758?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ke/nairobi/224758/current-weather/224758?lang=en-us",
   "Link": "http://www.accuweather.com/en/ke/nairobi/224758/current-weather/224758?lang=en-us"
  },
  {
@@ -3448,8 +3448,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T13:55:00+07:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T06:55:00+07:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Partly sunny",
   "WeatherIcon": 3,
   "HasPrecipitation": false,
@@ -3457,17 +3457,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 33.9,
+    "Value": 27.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 93,
+    "Value": 82,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/kh/phnom-penh/49785/current-weather/49785?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/kh/phnom-penh/49785/current-weather/49785?lang=en-us",
   "Link": "http://www.accuweather.com/en/kh/phnom-penh/49785/current-weather/49785?lang=en-us"
  },
  {
@@ -3502,26 +3502,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:55:00+06:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T06:06:00+06:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Sunny",
+  "WeatherIcon": 1,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 17.2,
+    "Value": 13.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 63,
+    "Value": 57,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/kz/nur-sultan/222343/current-weather/222343?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/kz/nur-sultan/222343/current-weather/222343?lang=en-us",
   "Link": "http://www.accuweather.com/en/kz/nur-sultan/222343/current-weather/222343?lang=en-us"
  },
  {
@@ -3556,26 +3556,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:03:00+01:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-07-01T00:56:00+01:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 20,
+    "Value": 17.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 68,
+    "Value": 64,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ma/rabat/245072/current-weather/245072?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ma/rabat/245072/current-weather/245072?lang=en-us",
   "Link": "http://www.accuweather.com/en/ma/rabat/245072/current-weather/245072?lang=en-us"
  },
  {
@@ -3610,26 +3610,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T14:55:00+08:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2021-07-01T08:06:00+08:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Light rain",
+  "WeatherIcon": 14,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 23.9,
+    "Value": 10,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 75,
+    "Value": 50,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/mn/ulan-bator/246421/current-weather/246421?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/mn/ulan-bator/246421/current-weather/246421?lang=en-us",
   "Link": "http://www.accuweather.com/en/mn/ulan-bator/246421/current-weather/246421?lang=en-us"
  },
  {
@@ -3664,8 +3664,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T15:05:00+08:00",
-  "EpochTime": 1624604700,
+  "LocalObservationDateTime": "2021-07-01T08:05:00+08:00",
+  "EpochTime": 1625097900,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 6,
   "HasPrecipitation": false,
@@ -3673,17 +3673,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 28.6,
+    "Value": 25.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 83,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/my/kuala-lumpur/233776/current-weather/233776?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/my/kuala-lumpur/233776/current-weather/233776?lang=en-us",
   "Link": "http://www.accuweather.com/en/my/kuala-lumpur/233776/current-weather/233776?lang=en-us"
  },
  {
@@ -3718,26 +3718,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T15:05:00+08:00",
-  "EpochTime": 1624604700,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T08:05:00+08:00",
+  "EpochTime": 1625097900,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 28.9,
+    "Value": 31.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 84,
+    "Value": 88,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ph/manila/264885/current-weather/264885?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ph/manila/264885/current-weather/264885?lang=en-us",
   "Link": "http://www.accuweather.com/en/ph/manila/264885/current-weather/264885?lang=en-us"
  },
  {
@@ -3772,26 +3772,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T01:57:00+02:00",
+  "EpochTime": 1625097420,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 20,
+    "Value": 18.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 68,
+    "Value": 66,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/pl/warsaw/274663/current-weather/274663?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/pl/warsaw/274663/current-weather/274663?lang=en-us",
   "Link": "http://www.accuweather.com/en/pl/warsaw/274663/current-weather/274663?lang=en-us"
  },
  {
@@ -3826,26 +3826,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:04:00+03:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T02:57:00+03:00",
+  "EpochTime": 1625097420,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 30,
+    "Value": 22.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 86,
+    "Value": 73,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ro/bucharest/287430/current-weather/287430?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ro/bucharest/287430/current-weather/287430?lang=en-us",
   "Link": "http://www.accuweather.com/en/ro/bucharest/287430/current-weather/287430?lang=en-us"
  },
  {
@@ -3880,26 +3880,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 30.5,
+    "Value": 24.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 87,
+    "Value": 76,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/rs/belgrade/298198/current-weather/298198?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/rs/belgrade/298198/current-weather/298198?lang=en-us",
   "Link": "http://www.accuweather.com/en/rs/belgrade/298198/current-weather/298198?lang=en-us"
  },
  {
@@ -3934,26 +3934,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:03:00+02:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T01:56:00+02:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 33.6,
+    "Value": 28.7,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 92,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/sd/khartoum/308406/current-weather/308406?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/sd/khartoum/308406/current-weather/308406?lang=en-us",
   "Link": "http://www.accuweather.com/en/sd/khartoum/308406/current-weather/308406?lang=en-us"
  },
  {
@@ -3988,26 +3988,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T07:03:00+00:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-06-30T23:56:00+00:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 25.9,
+    "Value": 25,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 79,
+    "Value": 77,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/sn/dakar/297442/current-weather/297442?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/sn/dakar/297442/current-weather/297442?lang=en-us",
   "Link": "http://www.accuweather.com/en/sn/dakar/297442/current-weather/297442?lang=en-us"
  },
  {
@@ -4042,26 +4042,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:03:00+03:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Clouds and sun",
-  "WeatherIcon": 4,
+  "LocalObservationDateTime": "2021-07-01T02:56:00+03:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 28.4,
+    "Value": 24.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 83,
+    "Value": 76,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/so/mogadishu/297120/current-weather/297120?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/so/mogadishu/297120/current-weather/297120?lang=en-us",
   "Link": "http://www.accuweather.com/en/so/mogadishu/297120/current-weather/297120?lang=en-us"
  },
  {
@@ -4096,8 +4096,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T14:55:00+08:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T08:06:00+08:00",
+  "EpochTime": 1625097960,
   "WeatherText": "Overcast",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -4110,17 +4110,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 27.8,
+    "Value": 30,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 82,
+    "Value": 86,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/tw/taipei-city/315078/current-weather/315078?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/tw/taipei-city/315078/current-weather/315078?lang=en-us",
   "Link": "http://www.accuweather.com/en/tw/taipei-city/315078/current-weather/315078?lang=en-us"
  },
  {
@@ -4155,26 +4155,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:04:00+03:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
+  "LocalObservationDateTime": "2021-07-01T03:02:00+03:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26.5,
+    "Value": 18.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 80,
+    "Value": 66,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ua/kyiv/324505/current-weather/324505?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ua/kyiv/324505/current-weather/324505?lang=en-us",
   "Link": "http://www.accuweather.com/en/ua/kyiv/324505/current-weather/324505?lang=en-us"
  },
  {
@@ -4209,10 +4209,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:55:00-03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Clear",
-  "WeatherIcon": 33,
+  "LocalObservationDateTime": "2021-06-30T20:55:00-03:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -4228,7 +4228,7 @@
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/uy/montevideo/349269/current-weather/349269?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/uy/montevideo/349269/current-weather/349269?lang=en-us",
   "Link": "http://www.accuweather.com/en/uy/montevideo/349269/current-weather/349269?lang=en-us"
  },
  {
@@ -4263,8 +4263,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T11:55:00+05:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T04:55:00+05:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -4272,17 +4272,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 31.1,
+    "Value": 27.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 88,
+    "Value": 81,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/uz/tashkent/351199/current-weather/351199?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/uz/tashkent/351199/current-weather/351199?lang=en-us",
   "Link": "http://www.accuweather.com/en/uz/tashkent/351199/current-weather/351199?lang=en-us"
  },
  {
@@ -4317,26 +4317,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Clear",
-  "WeatherIcon": 33,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Some clouds",
+  "WeatherIcon": 36,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 18.9,
+    "Value": 22.3,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 66,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ve/caracas/353020/current-weather/353020?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ve/caracas/353020/current-weather/353020?lang=en-us",
   "Link": "http://www.accuweather.com/en/ve/caracas/353020/current-weather/353020?lang=en-us"
  },
  {
@@ -4371,26 +4371,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Hazy sunshine",
-  "WeatherIcon": 5,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 23.6,
+    "Value": 17.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 75,
+    "Value": 64,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ye/sanaa/355809/current-weather/355809?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ye/sanaa/355809/current-weather/355809?lang=en-us",
   "Link": "http://www.accuweather.com/en/ye/sanaa/355809/current-weather/355809?lang=en-us"
  },
  {
@@ -4425,26 +4425,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:03:00+02:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T01:56:00+02:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 11.8,
+    "Value": 12.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 53,
+    "Value": 54,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/za/cape-town/306633/current-weather/306633?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/za/cape-town/306633/current-weather/306633?lang=en-us",
   "Link": "http://www.accuweather.com/en/za/cape-town/306633/current-weather/306633?lang=en-us"
  },
  {
@@ -4479,26 +4479,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:03:00+02:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T01:56:00+02:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 16.8,
+    "Value": 16.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 62,
+    "Value": 61,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/zw/harare/353558/current-weather/353558?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/zw/harare/353558/current-weather/353558?lang=en-us",
   "Link": "http://www.accuweather.com/en/zw/harare/353558/current-weather/353558?lang=en-us"
  },
  {
@@ -4533,26 +4533,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T15:05:00+08:00",
-  "EpochTime": 1624604700,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T08:05:00+08:00",
+  "EpochTime": 1625097900,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 17.8,
+    "Value": 11.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 64,
+    "Value": 52,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/au/perth/26797/current-weather/26797?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/au/perth/26797/current-weather/26797?lang=en-us",
   "Link": "http://www.accuweather.com/en/au/perth/26797/current-weather/26797?lang=en-us"
  },
  {
@@ -4587,8 +4587,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -4596,7 +4596,7 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 25,
+    "Value": 25.1,
     "Unit": "C",
     "UnitType": 17
    },
@@ -4606,7 +4606,7 @@
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/br/manaus/42471/current-weather/42471?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/br/manaus/42471/current-weather/42471?lang=en-us",
   "Link": "http://www.accuweather.com/en/br/manaus/42471/current-weather/42471?lang=en-us"
  },
  {
@@ -4641,26 +4641,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:55:00-03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2021-06-30T20:55:00-03:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "A shower",
+  "WeatherIcon": 12,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 21.4,
+    "Value": 23.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 71,
+    "Value": 74,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/br/recife/45090/current-weather/45090?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/br/recife/45090/current-weather/45090?lang=en-us",
   "Link": "http://www.accuweather.com/en/br/recife/45090/current-weather/45090?lang=en-us"
  },
  {
@@ -4695,26 +4695,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:55:00-03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Some clouds",
-  "WeatherIcon": 36,
+  "LocalObservationDateTime": "2021-06-30T20:55:00-03:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 15.2,
+    "Value": 7.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 59,
+    "Value": 46,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
   "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
  },
  {
@@ -4749,26 +4749,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:54:00-04:00",
-  "EpochTime": 1624604040,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-06-30T19:59:00-04:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Mostly sunny",
+  "WeatherIcon": 2,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 21.1,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 70,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ca/toronto/m5h/current-weather/55488?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ca/toronto/m5h/current-weather/55488?lang=en-us",
   "Link": "http://www.accuweather.com/en/ca/toronto/m5h/current-weather/55488?lang=en-us"
  },
  {
@@ -4803,26 +4803,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T07:03:00+00:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-06-30T23:56:00+00:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 23.9,
+    "Value": 25,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 75,
+    "Value": 77,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ci/abidjan/113725/current-weather/113725?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ci/abidjan/113725/current-weather/113725?lang=en-us",
   "Link": "http://www.accuweather.com/en/ci/abidjan/113725/current-weather/113725?lang=en-us"
  },
  {
@@ -4857,26 +4857,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 22.9,
+    "Value": 23.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 73,
+    "Value": 74,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/es/barcelona/307297/current-weather/307297?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/es/barcelona/307297/current-weather/307297?lang=en-us",
   "Link": "http://www.accuweather.com/en/es/barcelona/307297/current-weather/307297?lang=en-us"
  },
  {
@@ -4911,26 +4911,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T15:55:00+09:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2021-07-01T09:06:00+09:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Rain",
+  "WeatherIcon": 18,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 28.8,
+    "Value": 23.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 84,
+    "Value": 74,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/jp/osaka-shi/225007/current-weather/225007?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/jp/osaka-shi/225007/current-weather/225007?lang=en-us",
   "Link": "http://www.accuweather.com/en/jp/osaka-shi/225007/current-weather/225007?lang=en-us"
  },
  {
@@ -4965,26 +4965,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T19:05:00+12:00",
-  "EpochTime": 1624604700,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2021-07-01T12:05:00+12:00",
+  "EpochTime": 1625097900,
+  "WeatherText": "Sunny",
+  "WeatherIcon": 1,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 12,
+    "Value": 11.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 54,
+    "Value": 52,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/nz/auckland/252066/current-weather/252066?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/nz/auckland/252066/current-weather/252066?lang=en-us",
   "Link": "http://www.accuweather.com/en/nz/auckland/252066/current-weather/252066?lang=en-us"
  },
  {
@@ -5019,26 +5019,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T13:55:00+07:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-07-01T07:06:00+07:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Hazy sunshine",
+  "WeatherIcon": 5,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 12.8,
+    "Value": 16.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 55,
+    "Value": 61,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ru/novosibirsk/294459/current-weather/294459?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ru/novosibirsk/294459/current-weather/294459?lang=en-us",
   "Link": "http://www.accuweather.com/en/ru/novosibirsk/294459/current-weather/294459?lang=en-us"
  },
  {
@@ -5073,26 +5073,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 27.2,
+    "Value": 25.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 81,
+    "Value": 77,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/sy/aleppo/313468/current-weather/313468?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/sy/aleppo/313468/current-weather/313468?lang=en-us",
   "Link": "http://www.accuweather.com/en/sy/aleppo/313468/current-weather/313468?lang=en-us"
  },
  {
@@ -5127,26 +5127,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:03:00+03:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T02:56:00+03:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26,
+    "Value": 21.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 79,
+    "Value": 71,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/tz/dar-es-salaam/317663/current-weather/317663?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/tz/dar-es-salaam/317663/current-weather/317663?lang=en-us",
   "Link": "http://www.accuweather.com/en/tz/dar-es-salaam/317663/current-weather/317663?lang=en-us"
  },
  {
@@ -5181,26 +5181,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:00:00-04:00",
-  "EpochTime": 1624604400,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-06-30T19:59:00-04:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 18.7,
+    "Value": 22.3,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 66,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ca/montreal/h3a/current-weather/56186?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ca/montreal/h3a/current-weather/56186?lang=en-us",
   "Link": "http://www.accuweather.com/en/ca/montreal/h3a/current-weather/56186?lang=en-us"
  },
  {
@@ -5235,26 +5235,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 32,
+    "Value": 31.7,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 90,
+    "Value": 89,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/sa/jeddah/299429/current-weather/299429?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/sa/jeddah/299429/current-weather/299429?lang=en-us",
   "Link": "http://www.accuweather.com/en/sa/jeddah/299429/current-weather/299429?lang=en-us"
  },
  {
@@ -5289,26 +5289,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:00:00-05:00",
-  "EpochTime": 1624604400,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
-  "IsDayTime": false,
+  "LocalObservationDateTime": "2021-06-30T18:59:00-05:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Rain",
+  "WeatherIcon": 18,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 21.8,
+    "Value": 23.7,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 71,
+    "Value": 75,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/chicago-il/60608/current-weather/348308?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/chicago-il/60608/current-weather/348308?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/chicago-il/60608/current-weather/348308?lang=en-us"
  },
  {
@@ -5343,26 +5343,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:00:00-05:00",
-  "EpochTime": 1624604400,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2021-06-30T18:59:00-05:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 29.4,
+    "Value": 32.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 85,
+    "Value": 91,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/dallas-tx/75202/current-weather/351194?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/dallas-tx/75202/current-weather/351194?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/dallas-tx/75202/current-weather/351194?lang=en-us"
  },
  {
@@ -5397,26 +5397,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:55:00+04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T04:06:00+04:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 37.8,
+    "Value": 32.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 100,
+    "Value": 91,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ae/abu-dhabi/321626/current-weather/321626?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ae/abu-dhabi/321626/current-weather/321626?lang=en-us",
   "Link": "http://www.accuweather.com/en/ae/abu-dhabi/321626/current-weather/321626?lang=en-us"
  },
  {
@@ -5451,26 +5451,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 30,
+    "Value": 22.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 86,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/al/tirana/6522/current-weather/6522?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/al/tirana/6522/current-weather/6522?lang=en-us",
   "Link": "http://www.accuweather.com/en/al/tirana/6522/current-weather/6522?lang=en-us"
  },
  {
@@ -5505,8 +5505,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -5514,17 +5514,17 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": -1.1,
+    "Value": 2.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 30,
+    "Value": 36,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/bo/la-paz/33655/current-weather/33655?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/bo/la-paz/33655/current-weather/33655?lang=en-us",
   "Link": "http://www.accuweather.com/en/bo/la-paz/33655/current-weather/33655?lang=en-us"
  },
  {
@@ -5559,26 +5559,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T00:55:00-06:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2021-06-30T17:55:00-06:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 16,
+    "Value": 22.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 61,
+    "Value": 73,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/cr/san-jose/115295/current-weather/115295?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/cr/san-jose/115295/current-weather/115295?lang=en-us",
   "Link": "http://www.accuweather.com/en/cr/san-jose/115295/current-weather/115295?lang=en-us"
  },
  {
@@ -5613,26 +5613,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
-  "IsDayTime": true,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Light rain",
+  "WeatherIcon": 12,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 17.5,
+    "Value": 15.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 64,
+    "Value": 59,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/dk/copenhagen/123094/current-weather/123094?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/dk/copenhagen/123094/current-weather/123094?lang=en-us",
   "Link": "http://www.accuweather.com/en/dk/copenhagen/123094/current-weather/123094?lang=en-us"
  },
  {
@@ -5667,26 +5667,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:04:00+03:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T03:02:00+03:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 18.9,
+    "Value": 20,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 66,
+    "Value": 68,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ee/tallinn/127964/current-weather/127964?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ee/tallinn/127964/current-weather/127964?lang=en-us",
   "Link": "http://www.accuweather.com/en/ee/tallinn/127964/current-weather/127964?lang=en-us"
  },
  {
@@ -5721,26 +5721,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:04:00+03:00",
-  "EpochTime": 1624604640,
+  "LocalObservationDateTime": "2021-07-01T03:02:00+03:00",
+  "EpochTime": 1625097720,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 21.3,
+    "Value": 17.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 70,
+    "Value": 64,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/fi/helsinki/133328/current-weather/133328?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/fi/helsinki/133328/current-weather/133328?lang=en-us",
   "Link": "http://www.accuweather.com/en/fi/helsinki/133328/current-weather/133328?lang=en-us"
  },
  {
@@ -5775,13 +5775,13 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:04:00+01:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T01:02:00+01:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
     "Value": 10.7,
@@ -5794,7 +5794,7 @@
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ie/dublin/207931/current-weather/207931?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ie/dublin/207931/current-weather/207931?lang=en-us",
   "Link": "http://www.accuweather.com/en/ie/dublin/207931/current-weather/207931?lang=en-us"
  },
  {
@@ -5829,26 +5829,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26.9,
+    "Value": 22.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 80,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/il/jerusalem/213225/current-weather/213225?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/il/jerusalem/213225/current-weather/213225?lang=en-us",
   "Link": "http://www.accuweather.com/en/il/jerusalem/213225/current-weather/213225?lang=en-us"
  },
  {
@@ -5883,26 +5883,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T01:55:00-05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Thunderstorm",
-  "WeatherIcon": 41,
-  "HasPrecipitation": true,
-  "PrecipitationType": "Rain",
+  "LocalObservationDateTime": "2021-06-30T18:55:00-05:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
+  "HasPrecipitation": false,
+  "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 27.2,
+    "Value": 28.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 81,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/jm/kingston/214971/current-weather/214971?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/jm/kingston/214971/current-weather/214971?lang=en-us",
   "Link": "http://www.accuweather.com/en/jm/kingston/214971/current-weather/214971?lang=en-us"
  },
  {
@@ -5937,26 +5937,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:25:00+05:30",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
+  "LocalObservationDateTime": "2021-07-01T05:36:00+05:30",
+  "EpochTime": 1625097960,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 30.4,
+    "Value": 25.3,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 87,
+    "Value": 78,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/lk/colombo/311399/current-weather/311399?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/lk/colombo/311399/current-weather/311399?lang=en-us",
   "Link": "http://www.accuweather.com/en/lk/colombo/311399/current-weather/311399?lang=en-us"
  },
  {
@@ -5991,26 +5991,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:04:00+03:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T03:02:00+03:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 21.1,
+    "Value": 20,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 70,
+    "Value": 68,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/lt/vilnius/231459/current-weather/231459?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/lt/vilnius/231459/current-weather/231459?lang=en-us",
   "Link": "http://www.accuweather.com/en/lt/vilnius/231459/current-weather/231459?lang=en-us"
  },
  {
@@ -6045,26 +6045,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T10:04:00+03:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-07-01T03:02:00+03:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 22.4,
+    "Value": 17.7,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 72,
+    "Value": 64,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/lv/riga/225780/current-weather/225780?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/lv/riga/225780/current-weather/225780?lang=en-us",
   "Link": "http://www.accuweather.com/en/lv/riga/225780/current-weather/225780?lang=en-us"
  },
  {
@@ -6099,16 +6099,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:03:00+02:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Hazy sunshine",
-  "WeatherIcon": 5,
+  "LocalObservationDateTime": "2021-07-01T01:56:00+02:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 31.8,
+    "Value": 31.4,
     "Unit": "C",
     "UnitType": 17
    },
@@ -6118,7 +6118,7 @@
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ly/tripoli/230555/current-weather/230555?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ly/tripoli/230555/current-weather/230555?lang=en-us",
   "Link": "http://www.accuweather.com/en/ly/tripoli/230555/current-weather/230555?lang=en-us"
  },
  {
@@ -6153,26 +6153,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 16.1,
+    "Value": 13.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 61,
+    "Value": 57,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/nl/amsterdam/249758/current-weather/249758?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/nl/amsterdam/249758/current-weather/249758?lang=en-us",
   "Link": "http://www.accuweather.com/en/nl/amsterdam/249758/current-weather/249758?lang=en-us"
  },
  {
@@ -6207,26 +6207,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 12.8,
+    "Value": 11.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 55,
+    "Value": 52,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/no/oslo/254946/current-weather/254946?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/no/oslo/254946/current-weather/254946?lang=en-us",
   "Link": "http://www.accuweather.com/en/no/oslo/254946/current-weather/254946?lang=en-us"
  },
  {
@@ -6261,26 +6261,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:40:00+05:45",
-  "EpochTime": 1624604100,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2021-07-01T05:51:00+05:45",
+  "EpochTime": 1625097960,
+  "WeatherText": "Heavy rain",
+  "WeatherIcon": 18,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 25,
+    "Value": 20,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 77,
+    "Value": 68,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/np/kathmandu/241809/current-weather/241809?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/np/kathmandu/241809/current-weather/241809?lang=en-us",
   "Link": "http://www.accuweather.com/en/np/kathmandu/241809/current-weather/241809?lang=en-us"
  },
  {
@@ -6315,10 +6315,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T01:55:00-05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-06-30T18:55:00-05:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -6334,7 +6334,7 @@
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/pa/panama-city/259549/current-weather/259549?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/pa/panama-city/259549/current-weather/259549?lang=en-us",
   "Link": "http://www.accuweather.com/en/pa/panama-city/259549/current-weather/259549?lang=en-us"
  },
  {
@@ -6369,8 +6369,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T16:55:00+10:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T09:55:00+10:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 6,
   "HasPrecipitation": false,
@@ -6378,17 +6378,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 29.8,
+    "Value": 27.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 86,
+    "Value": 82,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/pg/port-moresby/258848/current-weather/258848?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/pg/port-moresby/258848/current-weather/258848?lang=en-us",
   "Link": "http://www.accuweather.com/en/pg/port-moresby/258848/current-weather/258848?lang=en-us"
  },
  {
@@ -6423,26 +6423,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T11:55:00+05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
+  "LocalObservationDateTime": "2021-07-01T04:55:00+05:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 34.5,
+    "Value": 31.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 94,
+    "Value": 88,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/pk/islamabad/258278/current-weather/258278?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/pk/islamabad/258278/current-weather/258278?lang=en-us",
   "Link": "http://www.accuweather.com/en/pk/islamabad/258278/current-weather/258278?lang=en-us"
  },
  {
@@ -6477,26 +6477,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Thundershower",
+  "WeatherIcon": 15,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 25.6,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 78,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/pr/san-juan/00901/current-weather/275478?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/pr/san-juan/00901/current-weather/275478?lang=en-us",
   "Link": "http://www.accuweather.com/en/pr/san-juan/00901/current-weather/275478?lang=en-us"
  },
  {
@@ -6531,26 +6531,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:04:00+01:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T00:57:00+01:00",
+  "EpochTime": 1625097420,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 22.2,
+    "Value": 15,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 72,
+    "Value": 59,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/pt/lisbon/274087/current-weather/274087?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/pt/lisbon/274087/current-weather/274087?lang=en-us",
   "Link": "http://www.accuweather.com/en/pt/lisbon/274087/current-weather/274087?lang=en-us"
  },
  {
@@ -6585,8 +6585,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -6594,17 +6594,17 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 12.2,
+    "Value": 11.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 54,
+    "Value": 52,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/py/asuncion/257012/current-weather/257012?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/py/asuncion/257012/current-weather/257012?lang=en-us",
   "Link": "http://www.accuweather.com/en/py/asuncion/257012/current-weather/257012?lang=en-us"
  },
  {
@@ -6639,26 +6639,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 17.8,
+    "Value": 13.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 64,
+    "Value": 57,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/se/stockholm/314929/current-weather/314929?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/se/stockholm/314929/current-weather/314929?lang=en-us",
   "Link": "http://www.accuweather.com/en/se/stockholm/314929/current-weather/314929?lang=en-us"
  },
  {
@@ -6693,26 +6693,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 22.8,
+    "Value": 16.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 73,
+    "Value": 61,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/sk/bratislava/297345/current-weather/297345?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/sk/bratislava/297345/current-weather/297345?lang=en-us",
   "Link": "http://www.accuweather.com/en/sk/bratislava/297345/current-weather/297345?lang=en-us"
  },
  {
@@ -6747,26 +6747,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T00:55:00-06:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Some clouds",
-  "WeatherIcon": 36,
+  "LocalObservationDateTime": "2021-06-30T17:55:00-06:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Clouds and sun",
+  "WeatherIcon": 4,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 20.4,
+    "Value": 25,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 69,
+    "Value": 77,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/sv/san-salvador/130669/current-weather/130669?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/sv/san-salvador/130669/current-weather/130669?lang=en-us",
   "Link": "http://www.accuweather.com/en/sv/san-salvador/130669/current-weather/130669?lang=en-us"
  },
  {
@@ -6801,26 +6801,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T11:55:00+05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T05:06:00+05:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Sunny",
+  "WeatherIcon": 1,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 32.2,
+    "Value": 22.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 90,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/tj/dushanbe/313854/current-weather/313854?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/tj/dushanbe/313854/current-weather/313854?lang=en-us",
   "Link": "http://www.accuweather.com/en/tj/dushanbe/313854/current-weather/313854?lang=en-us"
  },
  {
@@ -6855,26 +6855,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T11:55:00+05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T05:06:00+05:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 36.1,
+    "Value": 32.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 97,
+    "Value": 90,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/tm/ashgabat/317036/current-weather/317036?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/tm/ashgabat/317036/current-weather/317036?lang=en-us",
   "Link": "http://www.accuweather.com/en/tm/ashgabat/317036/current-weather/317036?lang=en-us"
  },
  {
@@ -6909,26 +6909,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T08:03:00+01:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T00:56:00+01:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26.6,
+    "Value": 25,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 80,
+    "Value": 77,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/tn/tunis/321398/current-weather/321398?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/tn/tunis/321398/current-weather/321398?lang=en-us",
   "Link": "http://www.accuweather.com/en/tn/tunis/321398/current-weather/321398?lang=en-us"
  },
  {
@@ -6963,26 +6963,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26.7,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 80,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us",
   "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us"
  },
  {
@@ -7017,26 +7017,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T12:25:00+05:30",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T05:25:00+05:30",
+  "EpochTime": 1625097300,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 27.8,
+    "Value": 25.3,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 82,
+    "Value": 77,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/in/hyderabad/202190/current-weather/202190?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/in/hyderabad/202190/current-weather/202190?lang=en-us",
   "Link": "http://www.accuweather.com/en/in/hyderabad/202190/current-weather/202190?lang=en-us"
  },
  {
@@ -7071,26 +7071,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T01:00:00-06:00",
-  "EpochTime": 1624604400,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2021-06-30T17:59:00-06:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 18.1,
+    "Value": 26.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 65,
+    "Value": 80,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/denver-co/80203/current-weather/347810?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/denver-co/80203/current-weather/347810?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/denver-co/80203/current-weather/347810?lang=en-us"
  },
  {
@@ -7125,26 +7125,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-24T21:00:00-10:00",
-  "EpochTime": 1624604400,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2021-06-30T13:59:00-10:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 25,
+    "Value": 31.7,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 77,
+    "Value": 89,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/honolulu-hi/96817/current-weather/348211?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/honolulu-hi/96817/current-weather/348211?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/honolulu-hi/96817/current-weather/348211?lang=en-us"
  },
  {
@@ -7179,26 +7179,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-24T23:54:00-07:00",
-  "EpochTime": 1624604040,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2021-06-30T16:59:00-07:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 19.3,
+    "Value": 24,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 67,
+    "Value": 75,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ca/vancouver/v6c/current-weather/53286?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ca/vancouver/v6c/current-weather/53286?lang=en-us",
   "Link": "http://www.accuweather.com/en/ca/vancouver/v6c/current-weather/53286?lang=en-us"
  },
  {
@@ -7233,26 +7233,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-24T22:54:00-08:00",
-  "EpochTime": 1624604040,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-06-30T15:59:00-08:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Sunny",
+  "WeatherIcon": 1,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 16.1,
+    "Value": 17.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 61,
+    "Value": 64,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/anchorage-ak/99501/current-weather/346835?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/anchorage-ak/99501/current-weather/346835?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/anchorage-ak/99501/current-weather/346835?lang=en-us"
  },
  {
@@ -7287,26 +7287,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T00:00:00-07:00",
-  "EpochTime": 1624604400,
+  "LocalObservationDateTime": "2021-06-30T16:59:00-07:00",
+  "EpochTime": 1625097540,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 14.2,
+    "Value": 15.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 58,
+    "Value": 61,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/san-francisco-ca/94103/current-weather/347629?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/san-francisco-ca/94103/current-weather/347629?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/san-francisco-ca/94103/current-weather/347629?lang=en-us"
  },
  {
@@ -7341,26 +7341,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:00:00-04:00",
-  "EpochTime": 1624604400,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2021-06-30T19:59:00-04:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 24.5,
+    "Value": 26.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 76,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/miami-fl/33128/current-weather/347936?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/miami-fl/33128/current-weather/347936?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/miami-fl/33128/current-weather/347936?lang=en-us"
  },
  {
@@ -7395,26 +7395,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T00:00:00-07:00",
-  "EpochTime": 1624604400,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2021-06-30T16:59:00-07:00",
+  "EpochTime": 1625097540,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 18.9,
+    "Value": 23.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 66,
+    "Value": 74,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/us/seattle-wa/98104/current-weather/351409?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/us/seattle-wa/98104/current-weather/351409?lang=en-us",
   "Link": "http://www.accuweather.com/en/us/seattle-wa/98104/current-weather/351409?lang=en-us"
  },
  {
@@ -7449,26 +7449,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T02:55:00-04:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2021-06-30T19:55:00-04:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26.1,
+    "Value": 27.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 79,
+    "Value": 82,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/ag/st-johns/355989/current-weather/355989?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/ag/st-johns/355989/current-weather/355989?lang=en-us",
   "Link": "http://www.accuweather.com/en/ag/st-johns/355989/current-weather/355989?lang=en-us"
  },
  {
@@ -7503,26 +7503,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T02:02:00+02:00",
+  "EpochTime": 1625097720,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 14.1,
+    "Value": 12.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 57,
+    "Value": 55,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/be/brussels/27581/current-weather/27581?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/be/brussels/27581/current-weather/27581?lang=en-us",
   "Link": "http://www.accuweather.com/en/be/brussels/27581/current-weather/27581?lang=en-us"
  },
  {
@@ -7557,26 +7557,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:03:00+02:00",
-  "EpochTime": 1624604580,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T01:56:00+02:00",
+  "EpochTime": 1625097360,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26.9,
+    "Value": 20.3,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 80,
+    "Value": 69,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/bi/bujumbura/47205/current-weather/47205?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/bi/bujumbura/47205/current-weather/47205?lang=en-us",
   "Link": "http://www.accuweather.com/en/bi/bujumbura/47205/current-weather/47205?lang=en-us"
  },
  {
@@ -7611,26 +7611,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T06:57:00+00:00",
-  "EpochTime": 1624604220,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-06-30T23:57:00+00:00",
+  "EpochTime": 1625097420,
+  "WeatherText": "Mist",
+  "WeatherIcon": 12,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 10,
+    "Value": 11.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 50,
+    "Value": 52,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/is/reykjavik/190390/current-weather/190390?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/is/reykjavik/190390/current-weather/190390?lang=en-us",
   "Link": "http://www.accuweather.com/en/is/reykjavik/190390/current-weather/190390?lang=en-us"
  },
  {
@@ -7665,8 +7665,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T13:55:00+07:00",
-  "EpochTime": 1624604100,
+  "LocalObservationDateTime": "2021-07-01T06:55:00+07:00",
+  "EpochTime": 1625097300,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -7674,17 +7674,17 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 30,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 86,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/la/vientiane/361929/current-weather/361929?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/la/vientiane/361929/current-weather/361929?lang=en-us",
   "Link": "http://www.accuweather.com/en/la/vientiane/361929/current-weather/361929?lang=en-us"
  },
  {
@@ -7719,26 +7719,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T11:55:00+05:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T04:55:00+05:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Some clouds",
+  "WeatherIcon": 36,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 30,
+    "Value": 28.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 86,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/mv/male/5003/current-weather/5003?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/mv/male/5003/current-weather/5003?lang=en-us",
   "Link": "http://www.accuweather.com/en/mv/male/5003/current-weather/5003?lang=en-us"
  },
  {
@@ -7773,26 +7773,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T18:55:00+12:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2021-07-01T11:55:00+12:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 15,
+    "Value": 11.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 59,
+    "Value": 52,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/nz/wellington/250938/current-weather/250938?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/nz/wellington/250938/current-weather/250938?lang=en-us",
   "Link": "http://www.accuweather.com/en/nz/wellington/250938/current-weather/250938?lang=en-us"
  },
  {
@@ -7827,26 +7827,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T03:55:00-03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Some clouds",
-  "WeatherIcon": 36,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2021-06-30T20:55:00-03:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Thundershower",
+  "WeatherIcon": 41,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 22.4,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 72,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/sr/paramaribo/309398/current-weather/309398?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/sr/paramaribo/309398/current-weather/309398?lang=en-us",
   "Link": "http://www.accuweather.com/en/sr/paramaribo/309398/current-weather/309398?lang=en-us"
  },
  {
@@ -7881,26 +7881,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T16:05:00+09:00",
-  "EpochTime": 1624604700,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2021-07-01T09:05:00+09:00",
+  "EpochTime": 1625097900,
+  "WeatherText": "Mostly sunny",
+  "WeatherIcon": 2,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 29.1,
+    "Value": 27.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 84,
+    "Value": 81,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/tl/dili/3484/current-weather/3484?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/tl/dili/3484/current-weather/3484?lang=en-us",
   "Link": "http://www.accuweather.com/en/tl/dili/3484/current-weather/3484?lang=en-us"
  },
  {
@@ -7935,26 +7935,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T14:05:00+07:00",
-  "EpochTime": 1624604700,
-  "WeatherText": "Rain",
-  "WeatherIcon": 18,
-  "HasPrecipitation": true,
-  "PrecipitationType": "Rain",
+  "LocalObservationDateTime": "2021-07-01T07:05:00+07:00",
+  "EpochTime": 1625097900,
+  "WeatherText": "Clouds and sun",
+  "WeatherIcon": 4,
+  "HasPrecipitation": false,
+  "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 25.3,
+    "Value": 24.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 77,
+    "Value": 76,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/id/banda-aceh/205110/current-weather/205110?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/id/banda-aceh/205110/current-weather/205110?lang=en-us",
   "Link": "http://www.accuweather.com/en/id/banda-aceh/205110/current-weather/205110?lang=en-us"
  },
  {
@@ -7989,26 +7989,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:55:00+03:00",
-  "EpochTime": 1624604100,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2021-07-01T03:06:00+03:00",
+  "EpochTime": 1625097960,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 30.6,
+    "Value": 25.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 87,
+    "Value": 78,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/cy/nicosia/124697/current-weather/124697?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/cy/nicosia/124697/current-weather/124697?lang=en-us",
   "Link": "http://www.accuweather.com/en/cy/nicosia/124697/current-weather/124697?lang=en-us"
  },
  {
@@ -8043,26 +8043,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-25T09:04:00+02:00",
-  "EpochTime": 1624604640,
-  "WeatherText": "Partly sunny",
-  "WeatherIcon": 3,
+  "LocalObservationDateTime": "2021-07-01T01:57:00+02:00",
+  "EpochTime": 1625097420,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 20,
+    "Value": 18.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 68,
+    "Value": 66,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/gi/gibraltar/178535/current-weather/178535?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/gi/gibraltar/178535/current-weather/178535?lang=en-us",
   "Link": "http://www.accuweather.com/en/gi/gibraltar/178535/current-weather/178535?lang=en-us"
  },
  {
@@ -8097,26 +8097,26 @@
     }
    }
   },
-  "LocalObservationDateTime": "2021-06-24T20:05:00-11:00",
-  "EpochTime": 1624604700,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2021-06-30T12:55:00-11:00",
+  "EpochTime": 1625097300,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 26.1,
+    "Value": 28.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 79,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
   },
-  "MobileLink": "http://m.accuweather.com/en/as/pago-pago/96799/current-weather/2094?lang=en-us",
+  "MobileLink": "http://www.accuweather.com/en/as/pago-pago/96799/current-weather/2094?lang=en-us",
   "Link": "http://www.accuweather.com/en/as/pago-pago/96799/current-weather/2094?lang=en-us"
  }
 ]
