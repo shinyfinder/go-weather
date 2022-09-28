@@ -31,8 +31,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T10:09:00+06:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:58:00+06:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -85,21 +85,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T04:57:00+01:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T05:57:00+01:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 23.6,
+    "Value": 22.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 74,
+    "Value": 73,
     "Unit": "F",
     "UnitType": 18
    }
@@ -139,8 +139,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:55:00-03:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T01:55:00-03:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -148,12 +148,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 12.4,
+    "Value": 11.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 54,
+    "Value": 53,
     "Unit": "F",
     "UnitType": 18
    }
@@ -193,8 +193,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:45:00+08:00",
-  "EpochTime": 1664336700,
+  "LocalObservationDateTime": "2022-09-28T12:46:00+08:00",
+  "EpochTime": 1664340360,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -252,21 +252,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T22:55:00-05:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2022-09-27T23:55:00-05:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 9.5,
+    "Value": 8.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 49,
+    "Value": 48,
     "Unit": "F",
     "UnitType": 18
    }
@@ -306,16 +306,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 7.9,
+    "Value": 7.7,
     "Unit": "C",
     "UnitType": 17
    },
@@ -360,8 +360,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:57:00+02:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T06:57:00+02:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -369,7 +369,7 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 24.8,
+    "Value": 25,
     "Unit": "C",
     "UnitType": 17
    },
@@ -414,8 +414,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Partly cloudy",
   "WeatherIcon": 35,
   "HasPrecipitation": false,
@@ -423,12 +423,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 10.4,
+    "Value": 10.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 51,
+    "Value": 50,
     "Unit": "F",
     "UnitType": 18
    }
@@ -468,8 +468,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:04:00+01:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T06:03:00+01:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -477,12 +477,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 7.2,
+    "Value": 6.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 45,
+    "Value": 44,
     "Unit": "F",
     "UnitType": 18
    }
@@ -522,21 +522,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:04:00+03:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2022-09-28T08:03:00+03:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Mostly sunny",
+  "WeatherIcon": 2,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 18.9,
+    "Value": 20,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 66,
+    "Value": 68,
     "Unit": "F",
     "UnitType": 18
    }
@@ -576,16 +576,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T12:09:00+08:00",
-  "EpochTime": 1664338140,
-  "WeatherText": "Cloudy",
+  "LocalObservationDateTime": "2022-09-28T12:58:00+08:00",
+  "EpochTime": 1664341080,
+  "WeatherText": "Overcast",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "LocalSource": {
    "Id": 7,
    "Name": "Huafeng",
-   "WeatherCode": "01"
+   "WeatherCode": "02"
   },
   "IsDayTime": true,
   "Temperature": {
@@ -635,8 +635,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:10:00+07:00",
-  "EpochTime": 1664338200,
+  "LocalObservationDateTime": "2022-09-28T12:05:00+07:00",
+  "EpochTime": 1664341500,
   "WeatherText": "Partly sunny",
   "WeatherIcon": 3,
   "HasPrecipitation": false,
@@ -644,12 +644,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 31.1,
+    "Value": 32.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 88,
+    "Value": 91,
     "Unit": "F",
     "UnitType": 18
    }
@@ -689,8 +689,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:09:00+03:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -743,8 +743,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T13:09:00+09:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T13:58:00+09:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Mostly sunny",
   "WeatherIcon": 2,
   "HasPrecipitation": false,
@@ -797,10 +797,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T13:09:00+09:00",
-  "EpochTime": 1664338140,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
+  "LocalObservationDateTime": "2022-09-28T13:58:00+09:00",
+  "EpochTime": 1664341080,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
@@ -851,8 +851,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T13:09:00+09:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T13:58:00+09:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -860,12 +860,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 26.1,
+    "Value": 23.3,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 79,
+    "Value": 74,
     "Unit": "F",
     "UnitType": 18
    }
@@ -905,10 +905,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T22:55:00-05:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2022-09-27T23:55:00-05:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -959,21 +959,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T22:55:00-05:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2022-09-27T23:55:00-05:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 14.6,
+    "Value": 13.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 58,
+    "Value": 56,
     "Unit": "F",
     "UnitType": 18
    }
@@ -1013,8 +1013,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:09:00+03:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -1067,8 +1067,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:59:00+03:00",
-  "EpochTime": 1664337540,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -1076,12 +1076,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 21.7,
+    "Value": 23.3,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 71,
+    "Value": 74,
     "Unit": "F",
     "UnitType": 18
    }
@@ -1121,10 +1121,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T12:10:00+08:00",
-  "EpochTime": 1664338200,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2022-09-28T13:05:00+08:00",
+  "EpochTime": 1664341500,
+  "WeatherText": "Clouds and sun",
+  "WeatherIcon": 4,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
@@ -1175,8 +1175,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:09:00+07:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T11:58:00+07:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 6,
   "HasPrecipitation": false,
@@ -1229,12 +1229,12 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:09:00+07:00",
-  "EpochTime": 1664338140,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2022-09-28T11:58:00+07:00",
+  "EpochTime": 1664341080,
+  "WeatherText": "Rain",
+  "WeatherIcon": 18,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
@@ -1283,16 +1283,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T14:10:00+10:00",
-  "EpochTime": 1664338200,
-  "WeatherText": "Clouds and sun",
-  "WeatherIcon": 4,
+  "LocalObservationDateTime": "2022-09-28T15:05:00+10:00",
+  "EpochTime": 1664341500,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 21.1,
+    "Value": 21.3,
     "Unit": "C",
     "UnitType": 17
    },
@@ -1337,8 +1337,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T14:10:00+10:00",
-  "EpochTime": 1664338200,
+  "LocalObservationDateTime": "2022-09-28T14:55:00+10:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 6,
   "HasPrecipitation": false,
@@ -1391,8 +1391,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:55:00-03:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T01:55:00-03:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -1400,7 +1400,7 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 21.8,
+    "Value": 21.6,
     "Unit": "C",
     "UnitType": 17
    },
@@ -1445,8 +1445,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:45:00+08:00",
-  "EpochTime": 1664336700,
+  "LocalObservationDateTime": "2022-09-28T12:46:00+08:00",
+  "EpochTime": 1664340360,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -1459,12 +1459,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 23.9,
+    "Value": 22.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 75,
+    "Value": 73,
     "Unit": "F",
     "UnitType": 18
    }
@@ -1504,8 +1504,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:39:00+05:30",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:28:00+05:30",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -1558,8 +1558,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:39:00+05:30",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:28:00+05:30",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -1612,8 +1612,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:39:00+05:30",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:28:00+05:30",
+  "EpochTime": 1664341080,
   "WeatherText": "Partly sunny",
   "WeatherIcon": 3,
   "HasPrecipitation": false,
@@ -1666,8 +1666,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:39:00+05:30",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:28:00+05:30",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -1720,8 +1720,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:39:00+05:30",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:28:00+05:30",
+  "EpochTime": 1664341080,
   "WeatherText": "Clouds and sun",
   "WeatherIcon": 4,
   "HasPrecipitation": false,
@@ -1774,8 +1774,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T13:09:00+09:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T13:58:00+09:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -1828,10 +1828,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T10:39:00+06:30",
-  "EpochTime": 1664338140,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2022-09-28T11:28:00+06:30",
+  "EpochTime": 1664341080,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
@@ -1882,21 +1882,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:09:00+05:00",
-  "EpochTime": 1664338140,
-  "WeatherText": "Overcast",
-  "WeatherIcon": 8,
+  "LocalObservationDateTime": "2022-09-28T09:58:00+05:00",
+  "EpochTime": 1664341080,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 27.8,
+    "Value": 28.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 82,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
@@ -1936,8 +1936,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:09:00+03:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Fog",
   "WeatherIcon": 11,
   "HasPrecipitation": false,
@@ -1990,12 +1990,12 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:09:00+03:00",
-  "EpochTime": 1664338140,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
-  "HasPrecipitation": false,
-  "PrecipitationType": null,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
+  "WeatherText": "Light rain",
+  "WeatherIcon": 12,
+  "HasPrecipitation": true,
+  "PrecipitationType": "Rain",
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
@@ -2044,8 +2044,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:09:00+07:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T11:58:00+07:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 6,
   "HasPrecipitation": false,
@@ -2098,8 +2098,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:57:00+02:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T06:57:00+02:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -2107,12 +2107,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 14,
+    "Value": 14.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 57,
+    "Value": 58,
     "Unit": "F",
     "UnitType": 18
    }
@@ -2152,8 +2152,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T04:57:00+01:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T05:57:00+01:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Rain",
   "WeatherIcon": 18,
   "HasPrecipitation": true,
@@ -2206,8 +2206,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T21:06:00-07:00",
-  "EpochTime": 1664337960,
+  "LocalObservationDateTime": "2022-09-27T21:59:00-07:00",
+  "EpochTime": 1664341140,
   "WeatherText": "Partly cloudy",
   "WeatherIcon": 35,
   "HasPrecipitation": false,
@@ -2260,10 +2260,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:06:00-04:00",
-  "EpochTime": 1664337960,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2022-09-28T00:59:00-04:00",
+  "EpochTime": 1664341140,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -2314,8 +2314,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T08:39:00+04:30",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T09:28:00+04:30",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -2368,8 +2368,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T08:09:00+04:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T08:58:00+04:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Mostly sunny",
   "WeatherIcon": 2,
   "HasPrecipitation": false,
@@ -2422,13 +2422,13 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T04:57:00+01:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T05:57:00+01:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
     "Value": 22.8,
@@ -2476,8 +2476,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:55:00-03:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T01:55:00-03:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -2530,21 +2530,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Clear",
-  "WeatherIcon": 33,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Sunny",
+  "WeatherIcon": 1,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 7,
+    "Value": 6.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 45,
+    "Value": 44,
     "Unit": "F",
     "UnitType": 18
    }
@@ -2584,21 +2584,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:04:00+03:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T08:03:00+03:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Fog",
   "WeatherIcon": 11,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 10,
+    "Value": 11.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 50,
+    "Value": 52,
     "Unit": "F",
     "UnitType": 18
    }
@@ -2638,16 +2638,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:55:00-03:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Some clouds",
-  "WeatherIcon": 36,
+  "LocalObservationDateTime": "2022-09-28T01:55:00-03:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 18.7,
+    "Value": 19,
     "Unit": "C",
     "UnitType": 17
    },
@@ -2692,13 +2692,13 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:58:00+03:00",
-  "EpochTime": 1664337480,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
     "Value": 7.7,
@@ -2746,8 +2746,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:06:00-04:00",
-  "EpochTime": 1664337960,
+  "LocalObservationDateTime": "2022-09-28T00:59:00-04:00",
+  "EpochTime": 1664341140,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 38,
   "HasPrecipitation": false,
@@ -2800,8 +2800,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:55:00-04:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T00:55:00-04:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -2809,7 +2809,7 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26.8,
+    "Value": 26.6,
     "Unit": "C",
     "UnitType": 17
    },
@@ -2854,21 +2854,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 6.8,
+    "Value": 7,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 44,
+    "Value": 45,
     "Unit": "F",
     "UnitType": 18
    }
@@ -2908,8 +2908,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:55:00-04:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T00:55:00-04:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Partly cloudy",
   "WeatherIcon": 35,
   "HasPrecipitation": false,
@@ -2917,12 +2917,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 25,
+    "Value": 24.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 77,
+    "Value": 76,
     "Unit": "F",
     "UnitType": 18
    }
@@ -2962,8 +2962,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T04:57:00+01:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T05:57:00+01:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -3016,8 +3016,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T22:55:00-05:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-27T23:55:00-05:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -3025,12 +3025,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 10.9,
+    "Value": 10.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 52,
+    "Value": 51,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3070,10 +3070,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -3124,8 +3124,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T08:09:00+04:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T08:58:00+04:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -3133,12 +3133,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 13.9,
+    "Value": 16.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 57,
+    "Value": 61,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3178,10 +3178,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:55:00-04:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2022-09-28T00:55:00-04:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Some clouds",
+  "WeatherIcon": 36,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -3232,21 +3232,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Sunny",
+  "WeatherIcon": 1,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 10.7,
+    "Value": 10,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 51,
+    "Value": 50,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3286,8 +3286,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:39:00+03:30",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T08:28:00+03:30",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -3295,12 +3295,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 23.9,
+    "Value": 27.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 75,
+    "Value": 81,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3340,8 +3340,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 38,
   "HasPrecipitation": false,
@@ -3349,12 +3349,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 16.7,
+    "Value": 17.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 62,
+    "Value": 63,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3394,8 +3394,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:57:00+03:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T07:57:00+03:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Partly sunny",
   "WeatherIcon": 3,
   "HasPrecipitation": false,
@@ -3403,12 +3403,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 10,
+    "Value": 12.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 50,
+    "Value": 54,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3448,8 +3448,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:09:00+07:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T11:58:00+07:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -3502,8 +3502,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T10:09:00+06:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:58:00+06:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -3556,8 +3556,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T04:57:00+01:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T05:57:00+01:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 38,
   "HasPrecipitation": false,
@@ -3565,12 +3565,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 12.8,
+    "Value": 11.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 55,
+    "Value": 52,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3610,10 +3610,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T12:09:00+08:00",
-  "EpochTime": 1664338140,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2022-09-28T12:58:00+08:00",
+  "EpochTime": 1664341080,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
@@ -3664,8 +3664,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T12:10:00+08:00",
-  "EpochTime": 1664338200,
+  "LocalObservationDateTime": "2022-09-28T13:05:00+08:00",
+  "EpochTime": 1664341500,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -3673,12 +3673,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 29.2,
+    "Value": 30,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 85,
+    "Value": 86,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3718,8 +3718,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T12:10:00+08:00",
-  "EpochTime": 1664338200,
+  "LocalObservationDateTime": "2022-09-28T13:05:00+08:00",
+  "EpochTime": 1664341500,
   "WeatherText": "Clouds and sun",
   "WeatherIcon": 4,
   "HasPrecipitation": false,
@@ -3727,12 +3727,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 28.5,
+    "Value": 31.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 83,
+    "Value": 89,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3772,13 +3772,13 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
     "Value": 10,
@@ -3826,21 +3826,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:04:00+03:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T08:03:00+03:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 11.5,
+    "Value": 13.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 53,
+    "Value": 56,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3880,21 +3880,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 11.9,
+    "Value": 12.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 53,
+    "Value": 54,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3934,8 +3934,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:57:00+02:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T06:57:00+02:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -3943,12 +3943,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 27.9,
+    "Value": 29.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 82,
+    "Value": 85,
     "Unit": "F",
     "UnitType": 18
    }
@@ -3988,21 +3988,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T03:57:00+00:00",
-  "EpochTime": 1664337420,
-  "WeatherText": "Clear",
-  "WeatherIcon": 33,
+  "LocalObservationDateTime": "2022-09-28T04:57:00+00:00",
+  "EpochTime": 1664341020,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 25,
+    "Value": 25.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 77,
+    "Value": 78,
     "Unit": "F",
     "UnitType": 18
    }
@@ -4042,8 +4042,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:57:00+03:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T07:57:00+03:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -4051,12 +4051,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 24.8,
+    "Value": 25.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 77,
+    "Value": 78,
     "Unit": "F",
     "UnitType": 18
    }
@@ -4096,16 +4096,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T12:09:00+08:00",
-  "EpochTime": 1664338140,
-  "WeatherText": "Sunny",
-  "WeatherIcon": 1,
+  "LocalObservationDateTime": "2022-09-28T12:58:00+08:00",
+  "EpochTime": 1664341080,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "LocalSource": {
    "Id": 7,
    "Name": "Huafeng",
-   "WeatherCode": "00"
+   "WeatherCode": "01"
   },
   "IsDayTime": true,
   "Temperature": {
@@ -4155,8 +4155,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:04:00+03:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T08:03:00+03:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Partly sunny",
   "WeatherIcon": 3,
   "HasPrecipitation": false,
@@ -4164,7 +4164,7 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 10.4,
+    "Value": 10.6,
     "Unit": "C",
     "UnitType": 17
    },
@@ -4209,8 +4209,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:55:00-03:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T01:55:00-03:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -4218,12 +4218,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 12.4,
+    "Value": 11.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 54,
+    "Value": 53,
     "Unit": "F",
     "UnitType": 18
    }
@@ -4263,8 +4263,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:09:00+05:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T09:58:00+05:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -4317,8 +4317,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:55:00-04:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T00:55:00-04:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -4326,12 +4326,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 22.9,
+    "Value": 22.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 73,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
@@ -4371,8 +4371,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:09:00+03:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -4425,16 +4425,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:57:00+02:00",
-  "EpochTime": 1664337420,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2022-09-28T06:57:00+02:00",
+  "EpochTime": 1664341020,
+  "WeatherText": "Mostly sunny",
+  "WeatherIcon": 2,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 8.1,
+    "Value": 8.2,
     "Unit": "C",
     "UnitType": 17
    },
@@ -4479,8 +4479,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:57:00+02:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T06:57:00+02:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -4488,12 +4488,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 15,
+    "Value": 16,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 59,
+    "Value": 61,
     "Unit": "F",
     "UnitType": 18
    }
@@ -4533,8 +4533,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T12:10:00+08:00",
-  "EpochTime": 1664338200,
+  "LocalObservationDateTime": "2022-09-28T12:55:00+08:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -4542,12 +4542,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 24.3,
+    "Value": 27.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 76,
+    "Value": 81,
     "Unit": "F",
     "UnitType": 18
    }
@@ -4587,8 +4587,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:55:00-04:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T00:55:00-04:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -4596,7 +4596,7 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 30.8,
+    "Value": 30.3,
     "Unit": "C",
     "UnitType": 17
    },
@@ -4641,8 +4641,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:55:00-03:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T01:55:00-03:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Mostly clear",
   "WeatherIcon": 34,
   "HasPrecipitation": false,
@@ -4650,7 +4650,7 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 24.6,
+    "Value": 24.4,
     "Unit": "C",
     "UnitType": 17
    },
@@ -4695,8 +4695,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:55:00-03:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T01:55:00-03:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -4704,7 +4704,7 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 15.7,
+    "Value": 15.5,
     "Unit": "C",
     "UnitType": 17
    },
@@ -4749,10 +4749,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:59:00-04:00",
-  "EpochTime": 1664337540,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2022-09-28T00:59:00-04:00",
+  "EpochTime": 1664341140,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -4803,8 +4803,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T03:57:00+00:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T04:57:00+00:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Partly cloudy",
   "WeatherIcon": 35,
   "HasPrecipitation": false,
@@ -4857,21 +4857,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 15.7,
+    "Value": 14.7,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 60,
+    "Value": 58,
     "Unit": "F",
     "UnitType": 18
    }
@@ -4911,8 +4911,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T13:09:00+09:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T13:58:00+09:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 6,
   "HasPrecipitation": false,
@@ -4920,12 +4920,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 26.5,
+    "Value": 26,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 80,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
@@ -4965,8 +4965,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T17:10:00+13:00",
-  "EpochTime": 1664338200,
+  "LocalObservationDateTime": "2022-09-28T18:05:00+13:00",
+  "EpochTime": 1664341500,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -4974,12 +4974,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 17.2,
+    "Value": 16.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 63,
+    "Value": 62,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5019,8 +5019,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:09:00+07:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T11:58:00+07:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -5073,8 +5073,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:59:00+03:00",
-  "EpochTime": 1664337540,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -5127,8 +5127,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:57:00+03:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T07:57:00+03:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Partly sunny",
   "WeatherIcon": 3,
   "HasPrecipitation": false,
@@ -5136,12 +5136,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 20,
+    "Value": 21.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 68,
+    "Value": 70,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5181,10 +5181,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:06:00-04:00",
-  "EpochTime": 1664337960,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2022-09-28T00:59:00-04:00",
+  "EpochTime": 1664341140,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -5235,8 +5235,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:09:00+03:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -5289,21 +5289,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:06:00-05:00",
-  "EpochTime": 1664337960,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2022-09-27T23:59:00-05:00",
+  "EpochTime": 1664341140,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 9.5,
+    "Value": 9.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 49,
+    "Value": 50,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5343,8 +5343,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:06:00-05:00",
-  "EpochTime": 1664337960,
+  "LocalObservationDateTime": "2022-09-27T23:59:00-05:00",
+  "EpochTime": 1664341140,
   "WeatherText": "Partly cloudy",
   "WeatherIcon": 35,
   "HasPrecipitation": false,
@@ -5352,12 +5352,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 24.4,
+    "Value": 23.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 76,
+    "Value": 74,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5397,8 +5397,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T08:09:00+04:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T08:58:00+04:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -5451,13 +5451,13 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
     "Value": 16.1,
@@ -5505,21 +5505,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:55:00-04:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Clear",
-  "WeatherIcon": 33,
+  "LocalObservationDateTime": "2022-09-28T00:55:00-04:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 2.8,
+    "Value": 2.2,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 37,
+    "Value": 36,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5559,8 +5559,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T21:55:00-06:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-27T22:55:00-06:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -5568,12 +5568,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 18.4,
+    "Value": 17,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 65,
+    "Value": 63,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5613,21 +5613,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 9.6,
+    "Value": 8.7,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 49,
+    "Value": 48,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5667,21 +5667,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:04:00+03:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2022-09-28T08:03:00+03:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 2.8,
+    "Value": 3.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 37,
+    "Value": 39,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5721,21 +5721,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:58:00+03:00",
-  "EpochTime": 1664337480,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 7.2,
+    "Value": 7.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 45,
+    "Value": 46,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5775,16 +5775,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:04:00+01:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2022-09-28T06:03:00+01:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 8,
+    "Value": 7.8,
     "Unit": "C",
     "UnitType": 17
    },
@@ -5829,8 +5829,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:09:00+03:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -5838,12 +5838,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 19.4,
+    "Value": 22.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 67,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
@@ -5883,12 +5883,12 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T22:55:00-05:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Light rain shower",
-  "WeatherIcon": 12,
-  "HasPrecipitation": true,
-  "PrecipitationType": "Rain",
+  "LocalObservationDateTime": "2022-09-27T23:55:00-05:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
+  "HasPrecipitation": false,
+  "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
@@ -5937,8 +5937,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:39:00+05:30",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:28:00+05:30",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -5991,16 +5991,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:04:00+03:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2022-09-28T08:03:00+03:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 9.4,
+    "Value": 9.5,
     "Unit": "C",
     "UnitType": 17
    },
@@ -6045,21 +6045,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:04:00+03:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T08:03:00+03:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 7.3,
+    "Value": 8.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 45,
+    "Value": 47,
     "Unit": "F",
     "UnitType": 18
    }
@@ -6099,8 +6099,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:57:00+02:00",
-  "EpochTime": 1664337420,
+  "LocalObservationDateTime": "2022-09-28T06:57:00+02:00",
+  "EpochTime": 1664341020,
   "WeatherText": "Some clouds",
   "WeatherIcon": 36,
   "HasPrecipitation": false,
@@ -6108,12 +6108,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 24.7,
+    "Value": 24.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 77,
+    "Value": 76,
     "Unit": "F",
     "UnitType": 18
    }
@@ -6153,12 +6153,12 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Light rain",
-  "WeatherIcon": 12,
-  "HasPrecipitation": true,
-  "PrecipitationType": "Rain",
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
+  "HasPrecipitation": false,
+  "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
@@ -6207,8 +6207,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -6261,8 +6261,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:54:00+05:45",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:43:00+05:45",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -6270,12 +6270,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 22.2,
+    "Value": 25,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 72,
+    "Value": 77,
     "Unit": "F",
     "UnitType": 18
    }
@@ -6315,21 +6315,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T22:55:00-05:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Some clouds",
-  "WeatherIcon": 36,
+  "LocalObservationDateTime": "2022-09-27T23:55:00-05:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 24.6,
+    "Value": 25,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 76,
+    "Value": 77,
     "Unit": "F",
     "UnitType": 18
    }
@@ -6369,8 +6369,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T14:10:00+10:00",
-  "EpochTime": 1664338200,
+  "LocalObservationDateTime": "2022-09-28T14:55:00+10:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Mostly cloudy",
   "WeatherIcon": 6,
   "HasPrecipitation": false,
@@ -6423,8 +6423,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T08:59:00+05:00",
-  "EpochTime": 1664337540,
+  "LocalObservationDateTime": "2022-09-28T09:58:00+05:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -6432,12 +6432,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 26.9,
+    "Value": 28.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 80,
+    "Value": 83,
     "Unit": "F",
     "UnitType": 18
    }
@@ -6477,16 +6477,16 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:55:00-04:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Cloudy",
-  "WeatherIcon": 7,
+  "LocalObservationDateTime": "2022-09-28T00:55:00-04:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26.6,
+    "Value": 26.4,
     "Unit": "C",
     "UnitType": 17
    },
@@ -6531,10 +6531,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:04:00+01:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2022-09-28T06:03:00+01:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 38,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -6585,21 +6585,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:55:00-04:00",
-  "EpochTime": 1664337300,
-  "WeatherText": "Clear",
-  "WeatherIcon": 33,
+  "LocalObservationDateTime": "2022-09-28T00:55:00-04:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Partly cloudy",
+  "WeatherIcon": 35,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 20,
+    "Value": 19.6,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 68,
+    "Value": 67,
     "Unit": "F",
     "UnitType": 18
    }
@@ -6639,13 +6639,13 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
     "Value": 11.6,
@@ -6693,13 +6693,13 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
-  "WeatherText": "Partly cloudy",
-  "WeatherIcon": 35,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
+  "WeatherText": "Mostly sunny",
+  "WeatherIcon": 2,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": false,
+  "IsDayTime": true,
   "Temperature": {
    "Metric": {
     "Value": 8.9,
@@ -6747,8 +6747,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T21:55:00-06:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-27T22:55:00-06:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -6756,12 +6756,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 22.6,
+    "Value": 22.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 73,
+    "Value": 72,
     "Unit": "F",
     "UnitType": 18
    }
@@ -6801,8 +6801,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:09:00+05:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T09:58:00+05:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -6855,8 +6855,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:09:00+05:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T09:58:00+05:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -6909,10 +6909,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T04:57:00+01:00",
-  "EpochTime": 1664337420,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2022-09-28T05:57:00+01:00",
+  "EpochTime": 1664341020,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -6963,8 +6963,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:09:00+03:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -6972,12 +6972,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 22.4,
+    "Value": 23.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 72,
+    "Value": 75,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7017,8 +7017,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:39:00+05:30",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T10:28:00+05:30",
+  "EpochTime": 1664341080,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -7071,10 +7071,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T22:06:00-06:00",
-  "EpochTime": 1664337960,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 38,
+  "LocalObservationDateTime": "2022-09-27T22:59:00-06:00",
+  "EpochTime": 1664341140,
+  "WeatherText": "Cloudy",
+  "WeatherIcon": 7,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
@@ -7125,13 +7125,13 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T18:06:00-10:00",
-  "EpochTime": 1664337960,
-  "WeatherText": "Mostly sunny",
-  "WeatherIcon": 2,
+  "LocalObservationDateTime": "2022-09-27T18:59:00-10:00",
+  "EpochTime": 1664341140,
+  "WeatherText": "Mostly clear",
+  "WeatherIcon": 34,
   "HasPrecipitation": false,
   "PrecipitationType": null,
-  "IsDayTime": true,
+  "IsDayTime": false,
   "Temperature": {
    "Metric": {
     "Value": 27.2,
@@ -7179,8 +7179,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T21:06:00-07:00",
-  "EpochTime": 1664337960,
+  "LocalObservationDateTime": "2022-09-27T21:59:00-07:00",
+  "EpochTime": 1664341140,
   "WeatherText": "Partly cloudy",
   "WeatherIcon": 35,
   "HasPrecipitation": false,
@@ -7188,12 +7188,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 18.9,
+    "Value": 17.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 66,
+    "Value": 64,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7233,8 +7233,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T20:06:00-08:00",
-  "EpochTime": 1664337960,
+  "LocalObservationDateTime": "2022-09-27T20:59:00-08:00",
+  "EpochTime": 1664341140,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -7287,21 +7287,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T21:06:00-07:00",
-  "EpochTime": 1664337960,
-  "WeatherText": "Mostly clear",
-  "WeatherIcon": 34,
+  "LocalObservationDateTime": "2022-09-27T21:59:00-07:00",
+  "EpochTime": 1664341140,
+  "WeatherText": "Clear",
+  "WeatherIcon": 33,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 14,
+    "Value": 14.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 57,
+    "Value": 58,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7341,8 +7341,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:06:00-04:00",
-  "EpochTime": 1664337960,
+  "LocalObservationDateTime": "2022-09-28T00:59:00-04:00",
+  "EpochTime": 1664341140,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -7395,8 +7395,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T21:06:00-07:00",
-  "EpochTime": 1664337960,
+  "LocalObservationDateTime": "2022-09-27T21:59:00-07:00",
+  "EpochTime": 1664341140,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -7404,12 +7404,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 17.9,
+    "Value": 15.4,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 64,
+    "Value": 60,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7449,8 +7449,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T23:55:00-04:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T00:55:00-04:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Partly cloudy",
   "WeatherIcon": 35,
   "HasPrecipitation": false,
@@ -7503,8 +7503,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Mostly clear",
   "WeatherIcon": 34,
   "HasPrecipitation": false,
@@ -7512,12 +7512,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 7,
+    "Value": 6.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 45,
+    "Value": 44,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7557,21 +7557,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T05:57:00+02:00",
-  "EpochTime": 1664337420,
-  "WeatherText": "Clouds and sun",
-  "WeatherIcon": 4,
+  "LocalObservationDateTime": "2022-09-28T06:57:00+02:00",
+  "EpochTime": 1664341020,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 20.7,
+    "Value": 21.5,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 69,
+    "Value": 71,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7611,8 +7611,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T04:04:00+00:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T05:03:00+00:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -7620,12 +7620,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 7.2,
+    "Value": 7.8,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 45,
+    "Value": 46,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7665,8 +7665,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:09:00+07:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T11:58:00+07:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Light rain",
   "WeatherIcon": 12,
   "HasPrecipitation": true,
@@ -7719,8 +7719,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T09:09:00+05:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T09:58:00+05:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Partly sunny",
   "WeatherIcon": 3,
   "HasPrecipitation": false,
@@ -7773,10 +7773,10 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T17:10:00+13:00",
-  "EpochTime": 1664338200,
-  "WeatherText": "Mostly cloudy",
-  "WeatherIcon": 6,
+  "LocalObservationDateTime": "2022-09-28T17:55:00+13:00",
+  "EpochTime": 1664340900,
+  "WeatherText": "Partly sunny",
+  "WeatherIcon": 3,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
@@ -7827,8 +7827,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T00:55:00-03:00",
-  "EpochTime": 1664337300,
+  "LocalObservationDateTime": "2022-09-28T01:55:00-03:00",
+  "EpochTime": 1664340900,
   "WeatherText": "Partly cloudy",
   "WeatherIcon": 35,
   "HasPrecipitation": false,
@@ -7836,12 +7836,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 26.6,
+    "Value": 26.1,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 80,
+    "Value": 79,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7881,21 +7881,21 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T13:10:00+09:00",
-  "EpochTime": 1664338200,
-  "WeatherText": "Clouds and sun",
-  "WeatherIcon": 4,
+  "LocalObservationDateTime": "2022-09-28T14:05:00+09:00",
+  "EpochTime": 1664341500,
+  "WeatherText": "Mostly cloudy",
+  "WeatherIcon": 6,
   "HasPrecipitation": false,
   "PrecipitationType": null,
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 30.8,
+    "Value": 32.9,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 87,
+    "Value": 91,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7935,8 +7935,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T11:10:00+07:00",
-  "EpochTime": 1664338200,
+  "LocalObservationDateTime": "2022-09-28T12:05:00+07:00",
+  "EpochTime": 1664341500,
   "WeatherText": "Cloudy",
   "WeatherIcon": 7,
   "HasPrecipitation": false,
@@ -7944,12 +7944,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 28.4,
+    "Value": 29.3,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 83,
+    "Value": 85,
     "Unit": "F",
     "UnitType": 18
    }
@@ -7989,8 +7989,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T07:09:00+03:00",
-  "EpochTime": 1664338140,
+  "LocalObservationDateTime": "2022-09-28T07:58:00+03:00",
+  "EpochTime": 1664341080,
   "WeatherText": "Sunny",
   "WeatherIcon": 1,
   "HasPrecipitation": false,
@@ -8043,8 +8043,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-28T06:04:00+02:00",
-  "EpochTime": 1664337840,
+  "LocalObservationDateTime": "2022-09-28T07:03:00+02:00",
+  "EpochTime": 1664341380,
   "WeatherText": "Clear",
   "WeatherIcon": 33,
   "HasPrecipitation": false,
@@ -8052,12 +8052,12 @@
   "IsDayTime": false,
   "Temperature": {
    "Metric": {
-    "Value": 18.9,
+    "Value": 20,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 66,
+    "Value": 68,
     "Unit": "F",
     "UnitType": 18
    }
@@ -8097,8 +8097,8 @@
     }
    }
   },
-  "LocalObservationDateTime": "2022-09-27T17:10:00-11:00",
-  "EpochTime": 1664338200,
+  "LocalObservationDateTime": "2022-09-27T18:05:00-11:00",
+  "EpochTime": 1664341500,
   "WeatherText": "Mostly sunny",
   "WeatherIcon": 2,
   "HasPrecipitation": false,
@@ -8106,12 +8106,12 @@
   "IsDayTime": true,
   "Temperature": {
    "Metric": {
-    "Value": 29.3,
+    "Value": 29,
     "Unit": "C",
     "UnitType": 17
    },
    "Imperial": {
-    "Value": 85,
+    "Value": 84,
     "Unit": "F",
     "UnitType": 18
    }
